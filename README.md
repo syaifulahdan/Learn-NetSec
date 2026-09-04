@@ -22,8 +22,12 @@
 
    
    ### <b>3. Password Security</b>
-   -  Exercise 1: Simulation Grid 9 Node [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
-  -  Exercise 2: Simulation Grid 16 Node [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid4x4.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid2.cpp) | [[Output to LOG File]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/LOG_Simple2.txt)   
+   -  Password Security [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
+   -  Password Craching Techniques  [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md) 
+   -  Dictionary Attack [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/3.%20Visuall%20Running%20NDNSim%20Example%20.md)
+   -  Brute Force Attack, Wordlist [[read]](https://github.com/syaifulahdan/NDNWork/blob/master/NDN-Installation/4.%20Installasi%20Netanim%20on%20Ubuntu%2020.04.md)
+   -  Exercise 1: Cracking Password Exercise [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
+
    
    
   <b>4.Create Secenario NDN-Inherent Topology </b>
