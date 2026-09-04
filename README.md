@@ -18,7 +18,7 @@
    -  Anatomy of Hacking, Scanning Theory [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
    -  Scanning Exercise - NMAP [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
    -  Understandig Scan Results [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md) 
-   -  Exercise 1: Enumaration  [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/Simulation-Simple.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/ndn-simple.cpp)
+   -  <b>Exercise 1</b>: Enumaration  [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/Simulation-Simple.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/ndn-simple.cpp)
 
    
    ### <b>3. Password Security</b>
@@ -26,14 +26,14 @@
    -  Password Craching Techniques  [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md) 
    -  Dictionary Attack [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/3.%20Visuall%20Running%20NDNSim%20Example%20.md)
    -  Brute Force Attack, Wordlist [[read]](https://github.com/syaifulahdan/NDNWork/blob/master/NDN-Installation/4.%20Installasi%20Netanim%20on%20Ubuntu%2020.04.md)
-   -  Exercise 1: Cracking Password Exercise [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
+   -  <b>Exercise 1</b>: Cracking Password Exercise [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
 
    ### <b>4. Sniffing & DoS</b>
    -  Sniffing Technique [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
    -  ARP Spoofing [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md) 
    -  DDoS [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/3.%20Visuall%20Running%20NDNSim%20Example%20.md)
    -  Sniffing Practice [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/3.%20Visuall%20Running%20NDNSim%20Example%20.md)
-   -  Practice 1: Vulnerability Scanning [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
+   -  <b>Practice 1</b>: Vulnerability Scanning [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
 
   
 
