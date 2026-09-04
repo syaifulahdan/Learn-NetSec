@@ -28,88 +28,14 @@
    -  Brute Force Attack, Wordlist [[read]](https://github.com/syaifulahdan/NDNWork/blob/master/NDN-Installation/4.%20Installasi%20Netanim%20on%20Ubuntu%2020.04.md)
    -  Exercise 1: Cracking Password Exercise [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
 
-   
-   
-  <b>4.Create Secenario NDN-Inherent Topology </b>
-  - <b>ndn-topo-Inheren-ver.1</b> [[view]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent/topo-indonesia-inheren.txt)
-  - <b>Map Indonesia Inheren</b> [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent/map_indo.png)
-  - Sourcecode <b>ndn-indonesia-inheren.cc</b> [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent/ndn-indonesia-inheren.cc)
-  - Sourcecode <b>ndn-indonesia-inheren xml</b> [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent/ndn-indonesia-inheren.xml)
-  - Sourcecode <b>topo-indonesia-inheren.txt</b> [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent/topo-indonesia-inheren.txt)
-  - <b>topo-indonesia-inheren-final</b> [[view]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent/topology%20koordinat%20FINAL%20upload%233%20odp%20.pdf)
-
-
-
-  <b>5.Create Secenario NDN-Inherent-5p5c</b>
-  - Raw Rate Trace: <b>Inherent-rate-trace.txt </b> [[read]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent-5p5c/inherent-rate-trace.txt) [[View]](https://raw.githubusercontent.com/syaifulahdan/NDNWork/master/SecenarioNDN-Inherent-5p5c/inherent-rate-trace.txt)
-  - Code L2 Tracer: <b>Inherent-rate-trace.txt </b> [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent-5p5c/ndn-tree-with-l2tracer-inherent.cc)
- - Sourcecode <b>Indonesia Inheren Topology</b> [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Inherent-5p5c/topo-indonesia-inheren.txt)
-  
-  
- <b>6.NDN Load Balancer Topology Inherent</b>  
- - <b>6a.Secenario Multi Load Balancer</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-multi-Load-balancer/ndn-load-balancer-multi.cpp)
- - <b>6b.Secenario Multi Load Balancer</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-multi-Load-balancer/ndn-load-balancer-multi.cpp)
-
-
- <b>7.Secenario NDN-Inherent-Different-strategy (best-route, Client Control, NCC) & Different Interest</b>  
- -  <b>Exercise 1 : NDN Multi Forwarding Strategy Different Interest 76252-5s</b> 
-      -  Exercise 1a: <b>Configuration </b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76252-5s.cpp) 
-      -  Exercise 1b: <b>L2RateTracer</b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/filet-trace-diffrent-starategy-all/strategy-different-interest-76252-5s.txt)
-
--  <b>Exercise 2 : NDN Multi Forwarding Strategy Different Interest 76272-5s</b>
-      -  Exercise 2a: <b>Configuration</b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76272-5s.cpp)
-      -  Exercise 2b: <b>L2RateTracer </b> [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/filet-trace-diffrent-starategy-all/strategy-different-interest-76272-5s.txt)
-
--  <b>Exercise 3 : NDN Multi Forwarding Strategy Different Interest 76573-5s</b>
-   -  Exercise 3a: <b>Configuration </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-different-interest-76573-5s.cpp)
-   -  Exercise 3b:  <b>L2RateTracer </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/filet-trace-diffrent-starategy-all/strategy-different-interest-76573-5s.txt)
-
--  <b>Exercise 4 : NDN Multi Forwarding Strategy Inherent per-prefix 1000 Interest</b>
-   -  Exercise 4a: <b>Configuration </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-1000.cpp)
-   -  Exercise 4b: <b>L2RateTracer </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/filet-trace-diffrent-starategy-all/different-strategy-bestroute-5s.txt)
-   -  Exercise 4c: <b>R GGPlot </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/grafik-strategy-different500-1000/different-strategy-bestroute.R)
-   -  Exercise 4d: <b>Graphic </b> [[Download] ](https://github.com/Telmat2015/NDNWork/tree/master/SecenarioNDN-Inherent-different-strategy/grafik-strategy-different500-1000)
-
--  <b>Exercise 5: NDN-Multi Forwarding Strategy Inherent Per-prefix-500 Interest</b> 
-   -  Exercise 5a: <b>Configuration</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-500.cpp)
-   -  Exercise 5b: <b>Graphic</b> [[Download] ](https://github.com/Telmat2015/NDNWork/tree/master/SecenarioNDN-Inherent-different-strategy/grafik-strategy-different500-1000)
-
-
--  <b>Exercise 6 : NDN-Multi-Forwarding-Strategy-Inherent-Per-Prefix-ClientControl</b>
-   -  Exercise 6a: <b>Configuration </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-clientcontrol.cpp)
-   -  Exercise 6b: <b>L2RateTracer </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/filet-trace-diffrent-starategy-all/strategy-clientcontrol-5s.txt)
-   -  Exercise 6c: <b>R GGPlot </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/grafik-strategy-client-control/different-strategy-bestroute3.R)
-    -  Exercise 6d: <b>Graphic </b> [[Download] ](https://github.com/Telmat2015/NDNWork/tree/master/SecenarioNDN-Inherent-different-strategy/grafik-strategy-client-control) | [[View] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/grafik-strategy-client-control/strategy-clientcontrol.png)
-
- 
- -  <b>Exercise 7: Configuration ndn-multi-forwarding-strategy-inherent-per-prefix-differentstrategy</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-differentstrategy.cpp)
- -  <b>Exercise 8: Configuration ndn-multi-forwarding-strategy-inherent-per-prefix-each-node</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix-each-node.cpp)
- -  <b>Exercise 9: Configuration ndn-multi-forwarding-strategy-inherent-per-prefix</b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Inherent-different-strategy/ndn-multi-forwarding-strategy-inherent-per-prefix.cpp)
-
+   ### <b>4. Sniffing & DoS</b>
+   -  Sniffing Technique [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
+   -  ARP Spoofing [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md) 
+   -  DDoS [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/3.%20Visuall%20Running%20NDNSim%20Example%20.md)
+   -  Sniffing Practice [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/3.%20Visuall%20Running%20NDNSim%20Example%20.md)
+   -  Practice 1: Vulnerability Scanning [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
 
   
-  <b>10.Create Secenario NDN-Palaparing Topology</b>
-   - ndn-topo-palaparing-Ver.2 [[view]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-palaparing/topo-palaparingv2.txt)
-  - ndn-topo-palaparing-15p30c-300int-cs100-bestroute.cpp [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Palaparing/ndn-topo-palaparing-15p30c-300int-cs100-bestroute.cpp)
-  - ndn-topo-palaparing-15p30c-300int-cs100-broadcast.cpp  [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Palaparing/ndn-topo-palaparing-15p30c-300int-cs100-broadcast.cpp)
-  - ndn-topo-palaparing-1p15c-500int-bestroute.cpp [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Palaparing/ndn-topo-palaparing-1p15c-500int-bestroute.cpp)
-  - ndn-topo-palaparing-20p20c-bestroute.cpp [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Palaparing/ndn-topo-palaparing-20p20c-bestroute.cpp)
-  - ndn-topo-palaparing-30p30c-broadcast.cpp [[view]](https://github.com/syaifulahdan/NDNWork/blob/master/SecenarioNDN-Palaparing/ndn-topo-palaparing-30p30c-broadcast.cpp)
-  - ndn-palaparing-mysimple-bestroute.cpp<b> 147 Node, 15c 1p, 200 Interest</b> [[view]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-palaparing/ndn-palaparing-mysimple-bestroute.cpp)
-  - ndn-palaparing-mysimple-broadcast.cpp<b> 147 Node, 15c 1p, 200 Interest</b> [[view]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-palaparing/ndn-palaparing-mysimple-broadcast.cpp)
-  
-10.Create Secenario NDN-UIN Topology
-
-
- <b>7.Running NFD on NDNSim </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/NFD/build-nfd.md)
-
- <b>8.Running NLSR on NDNSim </b> [[read] ](https://github.com/Telmat2015/NDNWork/blob/master/NLSR/build-nlsr.md)
-    
-
-
-  <b>9.Create Secenario NDN-Caida-Topology </b>
-  
-  - exercise 1: <b>Hyperbolic Routing Experiment</b> [[read] ](http://netwisdom.cs.memphis.edu/mini-ndn/)
 
 
     
