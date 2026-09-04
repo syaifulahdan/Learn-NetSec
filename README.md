@@ -40,8 +40,16 @@
    -  Wireless Cracking [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md) 
    -  Web Security [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/3.%20Visuall%20Running%20NDNSim%20Example%20.md)
    -  Metasploit Practice [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/3.%20Visuall%20Running%20NDNSim%20Example%20.md)
-   -  <b>Practice 1</b>: Wireless Cracking Practice [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
-   -  <b>Practice 2</b>: Web Injection Practice [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)  
+   -  <b>Practice 1</b>: Wireless Cracking [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
+   -  <b>Practice 2</b>: Web Injection [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)  
 
-
+### <b>6. Fundamental of Cryptography</b>
+   -  Cryptography Fundamentals [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
+   -  Classical Cryptography [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md) 
+   -  Symetric Cryptography [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/3.%20Visuall%20Running%20NDNSim%20Example%20.md)
+   -  Asymetric Cryptography [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/3.%20Visuall%20Running%20NDNSim%20Example%20.md)
+   -  <b>Practice 1</b>: Symetric Cryptography [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
+   -  <b>Practice 2</b>: PGP & Hashing [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)  
+   -  <b>Practice 3</b>: Steganography [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)  
+   -  <b>Practice 4</b>: Digital Watermak [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)  
     
