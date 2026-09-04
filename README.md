@@ -63,3 +63,11 @@
    -  Firewall. IP Tables [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
    -  DMZ (Demilitarized Zone) [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md) 
    -  <b>Practice 1</b>: IP Tables [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
+
+### <b>9. Intrusion Detection System (IDS</b>
+   -  Introduction to IDS [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
+   -  IDS Components [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
+   -  IPS (Intrusion Prevention System) [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
+   -  Honeypot [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md) 
+   -  <b>Practice 1</b>: IDS Practice [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
+   -  <b>Practice 2</b>: Honeypot Practice [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
