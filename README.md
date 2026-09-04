@@ -63,18 +63,18 @@
    -  <b>Practice 3</b>: PQC Practice [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)  
    -  <b>Practice 4</b>: MPC Practice [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)  
     
-### <b>7. Authentication and VPN</b>
+### <b>8. Authentication and VPN</b>
    -  Authentication Fundamentals [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
    -  Virtual Private Network (VPN) [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md) 
    -  <b>Practice 1</b>: Secure Sockets Layer (SSL) [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
    -  <b>Practice 2</b>: VPN [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)  
 
-### <b>8. Firewall</b>
+### <b>9. Firewall</b>
    -  Firewall. IP Tables [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
    -  DMZ (Demilitarized Zone) [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md) 
    -  <b>Practice 1</b>: IP Tables [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
 
-### <b>9. Intrusion Detection System (IDS</b>
+### <b>10. Intrusion Detection System (IDS</b>
    -  Introduction to IDS [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
    -  IDS Components [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
    -  IPS (Intrusion Prevention System) [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
@@ -82,14 +82,20 @@
    -  <b>Practice 1</b>: IDS Practice [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
    -  <b>Practice 2</b>: Honeypot Practice [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
 
-### <b>10. Security System Design </b>
+### <b>11. Security System Design </b>
    -  Security System Design [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
    -  Hardening[[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
 
-### <b>11. Malware (IDS</b>
-   -  Introduction to IDS [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
-   -  IDS Components [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
+### <b>12. Malware (IDS</b>
+   -  Malware [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
+   -  Malware Analysis Techniques [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
    -  IPS (Intrusion Prevention System) [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
-   -  Honeypot [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md) 
-   -  <b>Practice 1</b>: IDS Practice [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
-   -  <b>Practice 2</b>: Honeypot Practice [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
+   -  <b>Practice 1</b>: Malware Analysis [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
+   -  <b>Practice 2</b>: Reverse Engineering  [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
+
+### <b>13. Digital Forensic (IDS</b>
+   -  Introduction Digital Forensics [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
+   -  Digital Forensics Techniques [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
+   -  <b>Practice 1</b>: Digital Forensics [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
+   -  <b>Practice 2</b>: Network Forensic Practice [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
+  -  <b>Practice 3</b>: Memory Forensics Practice [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
