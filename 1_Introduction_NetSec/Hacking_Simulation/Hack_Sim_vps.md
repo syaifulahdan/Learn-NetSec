@@ -7,7 +7,7 @@
 
 1. Create VPS   
  <pre>
-    <b></b>learnnetsec@starterhub:/#</b> vps create
+    <b>learnnetsec@starterhub:/#</b> vps create
        Creating server...
 </pre>
 
