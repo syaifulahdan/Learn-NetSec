@@ -2,7 +2,7 @@
 
    Sebelum melakukan peretasan, sebaiknya server diamankan terlebih dahulu, salah satu tindakan untuk pengamanan server adalah menginsal firewall. Jika anda ingin menginstall paket, memperbarui paket, atau menghapus paket, anda perlu menggunakan  pengelola paket. pada sistem dalam game  ini anda dapat menggunakan <b>'apt'</b>, jika anda tidak mengetahui apa itu, anda dapat mengetikan <b>'man apt'.</b>
    <pre>
-   learnnetsec@learnnetsec_server:/# man apt
+   learnnetsec@learnnetsec_server:/# <b>man apt</b>
    Manage software packages like logd, httpd, maild. For installing packages apt relies on /etc/apt/sources.list
 
    Listing all available packages
