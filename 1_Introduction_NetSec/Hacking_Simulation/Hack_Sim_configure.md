@@ -57,6 +57,8 @@ Run the firewall, then view all CPU processes using the **top** command. As show
    learnnetsec@learnnetsec_server:/bin/# <b>firewall start </b>
 </pre>
 
+   3 Installing more software
+   installing more sorftware on your server juga means **more potentials security holes**
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
