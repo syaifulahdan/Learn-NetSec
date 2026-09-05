@@ -23,3 +23,10 @@ Account created. Please check your email (*also check the spam-folder) for the p
     ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/learnnetsec-useradd.png)
 
 
+3. Login Account
+   <pre>
+      anonymous@starterhub:/$ su learnnetsec ****
+To use your custom theme [green] use the command: refresh
+learnnetsec@starterhub:/#
+   </pre>
+5. 
