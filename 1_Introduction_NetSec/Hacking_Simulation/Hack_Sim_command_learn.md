@@ -1,7 +1,7 @@
 
    ### <b>Commands that must be learned</b>
 
-   Beberapa perintah perlu benar-benar anda pelajari, salah satunya adalah perintah <b>'ls'</b> yang berfungsi menampilkan file-file di folder saat ini. jika folder saat ini dadalah folder root, atau tanda /. maka perintah ls akan menampilkan file-file  yang ada didalam folder root.
+   You really need to learn several commands, one of which is the 'ls' command which functions to display the files in the current folder. if the current folder is the root folder, or sign /. then the ls command will display the files in the root folder..
    <pre>
    learnnetsec@learnnetsec_server:/# ls 
    </pre>
