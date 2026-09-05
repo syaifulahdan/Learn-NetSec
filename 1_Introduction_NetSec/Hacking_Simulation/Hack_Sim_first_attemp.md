@@ -15,7 +15,7 @@ Untuk Percobaan Peretasan pertama, Ikuti Skenario berikut :
     </pre>
  ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/sendmail%20lordnikon.png)
  
-  setelah anda mengirim email ke **Lord Nikon**, disinilah anda mengetik email anda, cukup ketik **task start** dan tekan Kirim (enter), dalam waktu sekitar **1 atau 2 menit**, akan menerima email balasan dari Lord Nikon.
+  setelah anda mengirim email ke **Lord Nikon**, disinilah anda mengetik email anda, cukup ketik **task start** dan tekan Kirim (enter), dalam waktu sekitar **1 atau 2 menit**, akan menerima email balasan dari Lord Nikon.seperti ini : **Notice: You have 1 unread message!**
 
  ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/task-start.png)
 
