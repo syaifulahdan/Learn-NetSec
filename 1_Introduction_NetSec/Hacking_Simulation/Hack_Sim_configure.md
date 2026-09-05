@@ -35,7 +35,7 @@
    learnnetsec@learnnetsec_server:/# <b>apt-get install firewalld</b>
    </pre>
    
-  ![https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installfirewall.png)
+   ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installfirewall.png)
    
  
    
