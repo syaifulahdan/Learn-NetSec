@@ -60,6 +60,11 @@ Run the firewall, then view all CPU processes using the **top** command. As show
    3 Installing more software
    
    installing more sorftware on your server juga means **more potentials security holes**
+   - Apakah Maild diperlukan agar dapat mengirim email ?
+<pre>
+   learnnetsec@learnnetsec_server:/bin/# <b>apt install maild </b> 
+</pre>
+   - 
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
