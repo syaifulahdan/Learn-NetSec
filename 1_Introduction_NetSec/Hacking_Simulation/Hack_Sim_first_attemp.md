@@ -10,6 +10,6 @@ Untuk Percobaan Peretasan pertama, Ikuti Skenario berikut :
 
 -  Anda dapat melihat bahwa anda dapat mengirimkan pesan kepadanya dengan menyatakan **task** kepada **Lord Nikon**
   <pre>
-  learnnetsec@learnnetsec_server:/bin/# **sendmail lordnikon**
+learnnetsec@learnnetsec_server:/bin/# **sendmail lordnikon**
   </pre>
 -  
