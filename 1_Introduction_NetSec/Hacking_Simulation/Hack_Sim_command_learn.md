@@ -1,7 +1,7 @@
 
-   ### <b>Creating a Virtual Private Server (VPS)</b>
+   ### <b>Commands that must be learned</b>
 
-   When entering the game for the first time, you need to create your own server; VPS stands for Virtual Private Server. If you run the <b>'man'</b> command, you will see that 'VPS' accepts various parameters, but the one used most frequently is for creating a new VPS. The <b>'vps create'</b> command is used to create your own server.
+   Beberapa perintah perlu benar-benar anda pelajari, salah satunya adalah perintah <b>'ls'</b> yang berfungsi menampilkan file-file di folder saat ini. jika folder saat ini dadalah folder root, atau tanda /. maka perintah ls akan menampilkan file-file  yang ada didalam folder root.
 
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/manvps.png)
 
