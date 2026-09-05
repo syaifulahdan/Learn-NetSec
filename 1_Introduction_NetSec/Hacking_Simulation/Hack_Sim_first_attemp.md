@@ -12,5 +12,9 @@ Untuk Percobaan Peretasan pertama, Ikuti Skenario berikut :
 
    <pre> 
    learnnetsec@learnnetsec_server:/bin/# <b>sendmail lordnikon</b>
-  </pre>
+    </pre>
+ ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/sendmail%20lordnikon.png)
+ 
+  setelah anda mengirim email ke **Lord Nikon**, disinilah anda mengetik email anda, cukup ketik **task start**
+
 -  
