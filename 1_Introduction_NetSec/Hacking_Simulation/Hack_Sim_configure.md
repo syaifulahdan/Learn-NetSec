@@ -66,7 +66,13 @@ Run the firewall, then view all CPU processes using the **top** command. As show
 </pre>
   
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installmaild.png)
+
+ lalu jalankan dengan perintah <b>maild start</b>
  
+<pre>
+   learnnetsec@learnnetsec_server:/bin/# <b>maild start </b>
+</pre>
+    
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
