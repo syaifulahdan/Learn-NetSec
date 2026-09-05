@@ -59,15 +59,15 @@ Run the firewall, then view all CPU processes using the **top** command. As show
 
    3 Installing more software
    
-   installing more sorftware on your server juga means **more potentials security holes**
-   - Apakah Maild diperlukan agar dapat mengirim email ?
+   Installing more software on your server also means **more potential security vulnerabilities.**
+   - Is Maild required to send emails? ?
 <pre>
    learnnetsec@learnnetsec_server:/bin/# <b>apt install maild </b> 
 </pre>
   
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installmaild.png)
 
- lalu jalankan dengan perintah <b>maild start</b>
+ then run it with the command <b>maild start</b>
  
 <pre>
    learnnetsec@learnnetsec_server:/bin/# <b>maild start </b>
@@ -75,7 +75,7 @@ Run the firewall, then view all CPU processes using the **top** command. As show
     
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/mailstart.png)
 
-setelah Maild dijalankan, dapat dilihat bahwa maild membuat folder mail di dalam var, **/var/mail**, dan disitulah email akan disimpan. 
+After maild is run, it can be seen that maild creates a mail folder inside var, **/var/mail**, and that is where the email will be stored. 
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
