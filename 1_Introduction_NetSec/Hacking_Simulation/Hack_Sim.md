@@ -7,6 +7,6 @@
    <pre>
       anonymous@starterhub:/$
    </pre>
-   - To register an account you must use the command useradd [username] [email address]. You will recieve your password on the provided email address, so make sure you have access to it during setup.
+   - To register an account you must use the command <b>useradd</b> [username] [email address]. You will recieve your password on the provided email address, so make sure you have access to it during setup.
 4. 
 
