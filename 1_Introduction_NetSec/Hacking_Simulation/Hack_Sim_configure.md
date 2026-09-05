@@ -60,14 +60,14 @@ Run the firewall, then view all CPU processes using the **top** command. As show
    3 Installing more software
    
    Installing more software on your server also means **more potential security vulnerabilities.**
-   - Is Maild required to send emails? ?
+   - Is **Maild** required to send emails? ?
 <pre>
    learnnetsec@learnnetsec_server:/bin/# <b>apt install maild </b> 
 </pre>
   
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installmaild.png)
 
-- Is Maild required to send sendmail ? ?
+- Is **sendmail** required to send emails ? ?
 <pre>
    learnnetsec@learnnetsec_server:/bin/# <b>apt install sendmail </b> 
 </pre>
