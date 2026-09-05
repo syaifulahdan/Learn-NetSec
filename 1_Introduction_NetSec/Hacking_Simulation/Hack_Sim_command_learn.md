@@ -6,7 +6,7 @@
    learnnetsec@learnnetsec_server:/# ls 
    </pre>
 
-   ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/manvps.png)
+   ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/ls_command.png)
 
  
    
