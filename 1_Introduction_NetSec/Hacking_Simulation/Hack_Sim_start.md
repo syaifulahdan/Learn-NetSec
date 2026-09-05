@@ -6,7 +6,7 @@
 
 2. Registering an account  [[Registry]](https://wiki.hackthegame.com/registering-an-account-wla5tvk1ul-sgoew5bj3if3)
    - When you first open up the game you are an anonymous user on a public server called starterHub . This is reflected in the prompt of the terminal — anonymous@starterhub.
-Jadi Hal pertama yang akan dilakukan adalah mendaftarkan akun agar kita bisa masuk kedalamnya. Jika kita menggunakan mesin baru atau server mana pun, kita dapat mengetikan perintah <b>'available'</b> untuk melihat perintah mana yang tersedia bagi kita dalam sesi pengguna saat  ini.  dan anda bisa melihat dan melakukan banyak  hal. yang akan digunakan adalah perintah <b>'useradd'</b>. dan Jika kita ingin mengetahui lebih  lanjut tentang suatu perintah, kita dapat menggunakan perintah manual atau disingkat <b>'man'. Lalu kita bisa menjalankan <b>'man useradd'</b>.
+The first step is to register an account so we can log in. When using a new machine or any server, you can type the command <b>'available'</b> to see which commands are accessible during the current user session. The command we will use is <b>'useradd'</b>. If you want to learn more about a specific command, you can use the manual command—abbreviated as <b>'man'</b>—by running <b>'man useradd'</b>.
    
    <pre>
       anonymous@starterhub:/$
