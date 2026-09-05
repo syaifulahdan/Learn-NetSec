@@ -2,7 +2,9 @@
    ### <b>Hacking Simulation</b>
    
 1. Please visit  [[hackthegame.com]](https://hackthegame.com/)
-2. Registering an account  [[Registry]](https://wiki.hackthegame.com/registering-an-account-wla5tvk1ul-sgoew5bj3if3)
+   ![alt tag](https://github.com/syaifulahdan/ndnlearn/blob/master/image/Screenshot%20from%202016-09-22%2011-39-31.png)
+
+3. Registering an account  [[Registry]](https://wiki.hackthegame.com/registering-an-account-wla5tvk1ul-sgoew5bj3if3)
    - When you first open up the game you are an anonymous user on a public server called starterHub . This is reflected in the prompt of the terminal — anonymous@starterhub.
    <pre>
       anonymous@starterhub:/$
