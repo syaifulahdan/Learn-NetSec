@@ -34,11 +34,10 @@
  <pre>
    learnnetsec@learnnetsec_server:/# <b>apt-get install firewalld</b>
    </pre>
-
    
-  <pre>
-   learnnetsec@learnnetsec_server:/# cd 
-   </pre>
+  ![https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installfirewall.png)
+   
+ 
    
     
 
