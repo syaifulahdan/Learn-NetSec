@@ -23,7 +23,11 @@
    Update all packages: apt update *
    </pre>
 
-   - Install Firewal
+   1 Install Firewal
+
+   <pre>
+   learnnetsec@learnnetsec_server:/# <b>apt-get install firewall</b>
+   </pre>
    - 
 
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/ls_command.png)
