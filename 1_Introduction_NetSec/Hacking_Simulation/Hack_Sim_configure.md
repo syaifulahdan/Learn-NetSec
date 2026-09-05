@@ -75,6 +75,8 @@ Run the firewall, then view all CPU processes using the **top** command. As show
     
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/mailstart.png)
 
+setelah Maild dijalankan, dapat dilihat bahwa maild membuat folder VAR mail, dan disitulah email akan disimpan. 
+
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
 
