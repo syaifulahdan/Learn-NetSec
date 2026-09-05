@@ -24,6 +24,7 @@ Account created. Please check your email (*also check the spam-folder) for the p
 
 
 3. Login Account
+   <b>anonymous@starterhub:/$</b> su [username] [password]
    <pre>
    anonymous@starterhub:/$ su learnnetsec ****
       To use your custom theme [green] use the command: refresh
