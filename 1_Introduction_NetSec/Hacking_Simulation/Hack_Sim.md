@@ -1,6 +1,10 @@
 
 ## 1.Hacking Simulation- List of contents
-
+Pada bagian ini kita akan mencoba membahas :
+- cara mendaftarkan akun
+- cara masuk ke dalam game
+- cara membuat server sendiri, dan
+- cara melakukan peretasan pertama anda. 
 
 <b>Tabel Of Content</b>
   
