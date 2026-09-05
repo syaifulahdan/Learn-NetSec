@@ -48,7 +48,7 @@ Before attempting any hacking, it is best to secure the server first; one way to
 
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/topcommand.png)
 
-Jalankan Firewall, kemudian lihat seluruh proses di CPU dengan intruksi <b>top</b>, seperti contoh dibawah ini, firwalld sekarang telah berjalan, saat ini menggunakan 70% CPU yang terdiri dari : systemd 35, sshd 15, dan firewalld 20
+Run the firewall, then view all CPU processes using the **top** command. As shown in the example below, `firewalld` is now running and currently utilizing 70% of the CPU, distributed as follows: `systemd` (35%), `sshd` (15%), and `firewalld` (20%).
 
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/firwallstart.png)
 
