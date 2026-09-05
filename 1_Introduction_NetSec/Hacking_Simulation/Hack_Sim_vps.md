@@ -7,9 +7,11 @@
 
 1. Create VPS   
  <pre>
-    <b></b>learnnetsec@starterhub:/#<b> vps create
+    <b></b>learnnetsec@starterhub:/#</b> vps create
        Creating server...
+</pre>
 
+<pre>
 
       VPS reboot initiated... [OK]
       sshd config config reset... [OK]
