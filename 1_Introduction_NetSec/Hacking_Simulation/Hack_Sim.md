@@ -1,7 +1,7 @@
 
    ### <b>Hacking Simulation</b>
    
-1. Please visit  [[hackthegame.com]](https://hackthegame.com/)
+1. Please visit  [[hackthegame.com]](https://hackthegame.com/) and Watch [[Video Tutorial]](https://www.youtube.com/watch?v=0-gf05-1uAc)
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/hackthegame.png)
 
 3. Registering an account  [[Registry]](https://wiki.hackthegame.com/registering-an-account-wla5tvk1ul-sgoew5bj3if3)
