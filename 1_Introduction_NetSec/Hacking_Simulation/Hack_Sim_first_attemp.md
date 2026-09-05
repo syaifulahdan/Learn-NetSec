@@ -19,7 +19,7 @@ Untuk Percobaan Peretasan pertama, Ikuti Skenario berikut :
 
  ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/task-start.png)
  
-1 atau 2 menit,
+Tunggu 1 sampai 2 menit,
 
 
 
