@@ -26,12 +26,16 @@
    1 Install Firewal
 
    <pre>
-   learnnetsec@learnnetsec_server:/# <b>apt-get install firewall</b>
+   learnnetsec@learnnetsec_server:/# <b>apt-get list packages/b>
    </pre>
-   - 
+
 
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/ls_command.png)
+ <pre>
+   learnnetsec@learnnetsec_server:/# <b>apt-get install firewall</b>
+   </pre>
 
+   
   <pre>
    learnnetsec@learnnetsec_server:/# cd 
    </pre>
