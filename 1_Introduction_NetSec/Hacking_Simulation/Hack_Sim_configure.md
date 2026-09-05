@@ -23,6 +23,9 @@
    Update all packages: apt update *
    </pre>
 
+   - Install Firewal
+   - 
+
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/ls_command.png)
 
   <pre>
