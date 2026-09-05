@@ -13,6 +13,6 @@
    - anonymous@starterhub:/$  useradd wikidemo wikidemo@hackthegame.com
 Account created. Please check your email (*also check the spam-folder) for the password and use the su command to login.
 
-    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/netsecuseradd.png)
+    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/learnnetsec-useradd.png)
 
 
