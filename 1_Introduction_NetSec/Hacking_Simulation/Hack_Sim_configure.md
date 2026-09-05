@@ -40,7 +40,7 @@ Before attempting any hacking, it is best to secure the server first; one way to
  
    2 Viewing processes running on the server
    
-   untuk melihat proses mana yang berjalan di server dan berapa banyak CPU yang digunakan. seperti yang anda lihat, saat ini menggunakan 50% CPU, dan itu digunakan oleh <b>System D</b> dan <b>sshd</b>. tetapi seperti yang anda lihat, firewall D hilang dari daftar ini, dan itu dikarenakan  kita belum menjalankan firewal, untu kmenjalankan firewal, dapat menggunakan  perintah <b>firewall start</b>
+   To see which processes are running on the server and how much CPU is being used: as you can see, 50% of the CPU is currently in use, specifically by <b>systemd</b> and <b>sshd</b>. However, notice that firewalld is missing from this list; this is because we haven't started the firewall yet. To start the firewall, you can use the <b>`firewall start`</b> command.
     
 <pre>
    learnnetsec@learnnetsec_server:/bin/# <b>top </b>
