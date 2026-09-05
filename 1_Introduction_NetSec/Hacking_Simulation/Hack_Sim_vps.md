@@ -11,6 +11,8 @@
        Creating server...
 </pre>
 
+    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/manvps.png)
+
 <pre>
 
       VPS reboot initiated... [OK]
@@ -27,7 +29,6 @@
       learnnetsec@starterhub:/#
  </pre>
 
-    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/manvps.png)
 
  The first step is to register an account so we can log in. When using a new machine or any server, you can type the command <b>'available'</b> to see which commands are accessible during the current user session. The command we will use is <b>'useradd'</b>. If you want to learn more about a specific command, you can use the manual command—abbreviated as <b>'man'</b>—by running <b>'man useradd'</b>.
    
