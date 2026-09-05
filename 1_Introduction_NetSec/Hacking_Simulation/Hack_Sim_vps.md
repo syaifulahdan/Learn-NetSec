@@ -8,7 +8,25 @@
 1. Create VPS   
  <pre>
     <b></b>learnnetsec@starterhub:/#<b> vps create
+       Creating server...
+
+
+      VPS reboot initiated... [OK]
+      sshd config config reset... [OK]
+      sshd restarted... [OK]
+ 
+      Server is ready for remote connections.
+ 
+      VPS creation successful.
+      IP address: 840d:74cd:dab6:9684:357e:f5b6:2a5b:6925
+      Password: nG6R5ZQF
+      To connect, use: vps connect
+
+      learnnetsec@starterhub:/#
  </pre>
+
+    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/manvps.png)
+
  The first step is to register an account so we can log in. When using a new machine or any server, you can type the command <b>'available'</b> to see which commands are accessible during the current user session. The command we will use is <b>'useradd'</b>. If you want to learn more about a specific command, you can use the manual command—abbreviated as <b>'man'</b>—by running <b>'man useradd'</b>.
    
    <pre>
