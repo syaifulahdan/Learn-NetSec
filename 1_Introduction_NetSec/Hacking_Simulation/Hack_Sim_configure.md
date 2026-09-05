@@ -47,7 +47,11 @@
 </pre>
 
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/topcommand.png)
+Jalankan Firewall
 
+<pre>
+   learnnetsec@learnnetsec_server:/bin/# <b>firwall start </b>
+</pre>
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
