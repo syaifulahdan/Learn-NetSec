@@ -38,7 +38,8 @@
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installfirewalld.png)
    
  
-   
+   2 Viewing processes running on the server
+   untuk melihat proses mana yang berjalan di server dan berapa banyak CPU yang digunakan. seperti yang anda lihat, saat ini menggunakan 50% CPU, dan itu digunakan oleh <b>System D</b> dan <b>sshd</b>. tetapi seperti yang anda lihat, firewall D hilang dari daftar ini, dan itu dikarenakan  kita belum menjalankan firewal, untu kmenjalankan firewal, dapat menggunakan  perintah <b>firewall start</b>
     
 
 
