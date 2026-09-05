@@ -6,6 +6,8 @@ Pada bagian ini kita akan mencoba membahas :
 3 cara membuat server sendiri, dan
 4 cara melakukan peretasan pertama anda. 
 
+Jika ada ada perintah yang kurang jelas maka dapat diketahui dengan adanya Wiki yang menjelaskan sebagaian besar hal tersebut secara detail.  jadi pastikan untuk memeriksanya jika ada sesuatu yang kurang jelas. 
+
 <b>Tabel Of Content</b>
   
    -  Starting HackTheGame  [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_start.md)
