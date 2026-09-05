@@ -17,4 +17,6 @@ Untuk Percobaan Peretasan pertama, Ikuti Skenario berikut :
  
   setelah anda mengirim email ke **Lord Nikon**, disinilah anda mengetik email anda, cukup ketik **task start** dan tekan Kirim (enter), dalam waktu sekitar satu atau dua menit, akan menerima email balasan dari Lord Nikon.
 
+ ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/task-start.png)
+
 -  
