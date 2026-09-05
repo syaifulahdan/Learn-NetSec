@@ -1,6 +1,6 @@
 
 
-   ### <b>Hacking Simulation</b>
+   ### <b>Viewing available commands</b>
      
    
 1. Use the Available command to view the list of available commands.
