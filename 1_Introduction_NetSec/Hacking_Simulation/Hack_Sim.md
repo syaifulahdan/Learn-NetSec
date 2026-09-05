@@ -1,12 +1,6 @@
 
 ## 1.Hacking Simulation- List of contents
-Pada bagian ini kita akan mencoba membahas :
-1 cara mendaftarkan akun,
-2 cara masuk ke dalam game,
-3 cara membuat server sendiri, dan
-4 cara melakukan peretasan pertama anda. 
-
-Jika ada ada perintah yang kurang jelas maka dapat diketahui dengan adanya Wiki yang menjelaskan sebagaian besar hal tersebut secara detail.  jadi pastikan untuk memeriksanya jika ada sesuatu yang kurang jelas. 
+In this section, we will cover: 1) how to register an account, 2) how to log into the game, 3) how to create your own server, and 4) how to perform your first hack. If any instructions are unclear, you can consult the Wiki, which explains most of these topics in detail; so, be sure to check it if anything is not clear. 
 
 <b>Tabel Of Content</b>
   
