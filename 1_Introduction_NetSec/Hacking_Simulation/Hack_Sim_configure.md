@@ -67,6 +67,13 @@ Run the firewall, then view all CPU processes using the **top** command. As show
   
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installmaild.png)
 
+- Is Maild required to send sendmail ? ?
+<pre>
+   learnnetsec@learnnetsec_server:/bin/# <b>apt install sendmail </b> 
+</pre>
+  
+   ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installsendmail.png)
+
  then run it with the command <b>maild start</b>
  
 <pre>
