@@ -31,9 +31,9 @@
  </pre>
 
 
-  perintah vps create membuat server dengan alamat IP dan kata sandi, jadi kita dapat terhubung dengan server VPS.  anda dapat menggunakan perintah <b>'vps'</b> untuk dapat terhubung ke server anda dengan menambahkan perintah <b>'vps connect'</b>.  dan setiap kali anda masuk ke dalam game dengan perintah <b>'su'</b>, anda perlu melakukan koneksi ke server dengan  perintah <b>'vps connect'</b> ke server anda sendiri
+The `vps create` command sets up a server with an IP address and password, allowing you to connect to the VPS. You can connect to your server by using the `vps` command followed by `vps connect`. Additionally, every time you enter the game using the `su` command, you must connect to your server using `vps connect`.
 
-  Jadi ketika anda telah terhubung ke server maka akun anda bukan lagi <b>demo@starterHub</b> atau yang saya gunakan saat ini adalah <b>learnnetsec@starterhub</b>. sehingga akan menjadi demo@demo_server.
+So, once you are connected to the server, your account will no longer be <b>demo@starterHub</b>—or, in my current case, <b>learnnetsec@starterhub</b>—but will instead become <b>demo@demo_server</b>.
    
     
 
