@@ -31,7 +31,7 @@
  </pre>
 
 
-  perintah vps create membuat server dengan alamat IP dan kata sandi, jadi kita dapat terhubung dengan server VPS.  anda dapat menggunakan perintah <b>'vps'</b> untuk dapat terhubung ke server anda dengan menambahkan perintah <b>'vps connect'</b>
+  perintah vps create membuat server dengan alamat IP dan kata sandi, jadi kita dapat terhubung dengan server VPS.  anda dapat menggunakan perintah <b>'vps'</b> untuk dapat terhubung ke server anda dengan menambahkan perintah <b>'vps connect'</b>.  dan setiap kali anda masuk ke dalam game dengan perintah <b>'su'</b>, anda perlu melakukan koneksi ke server dengan  perintah <b>'vps connect'</b> ke server anda sendiri
    
     
 
