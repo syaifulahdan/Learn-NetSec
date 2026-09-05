@@ -1,7 +1,7 @@
    ### <b>Configure Server</b>
 
-   Sebelum melakukan peretasan, sebaiknya server diamankan terlebih dahulu, salah satu tindakan untuk pengamanan server adalah menginsal firewall. Jika anda ingin menginstall paket, memperbarui paket, atau menghapus paket, anda perlu menggunakan  pengelola paket. pada sistem dalam game  ini anda dapat menggunakan <b>'apt'</b>, jika anda tidak mengetahui apa itu, anda dapat mengetikan <b>'man apt'.</b>
-   <pre>
+Before attempting any hacking, it is best to secure the server first; one way to do this is by installing a firewall. If you need to install, update, or remove packages, you must use a package manager. In this game's system, you can use 'apt'; if you are unfamiliar with it, you can type <b>'man apt'</b>.
+<pre>
    learnnetsec@learnnetsec_server:/# <b>man apt</b>
    Manage software packages like logd, httpd, maild. For installing packages apt relies on /etc/apt/sources.list
 
