@@ -73,6 +73,7 @@ Run the firewall, then view all CPU processes using the **top** command. As show
    learnnetsec@learnnetsec_server:/bin/# <b>maild start </b>
 </pre>
     
+   ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/mailstart.png)
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
