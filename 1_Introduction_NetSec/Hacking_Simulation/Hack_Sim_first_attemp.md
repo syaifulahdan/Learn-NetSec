@@ -6,3 +6,4 @@ Untuk Percobaan Peretasan pertama, Ikuti Skenario berikut :
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/menuwiki.png)
 
 -  
+![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/lordnikon.png)
