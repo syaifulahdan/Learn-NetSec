@@ -8,5 +8,7 @@
       anonymous@starterhub:/$
    </pre>
    - To register an account you must use the command <b>useradd</b> [username] [email address]. You will recieve your password on the provided email address, so make sure you have access to it during setup.
+   - anonymous@starterhub:/$  useradd wikidemo wikidemo@hackthegame.com
+Account created. Please check your email (*also check the spam-folder) for the password and use the su command to login.
 4. 
 
