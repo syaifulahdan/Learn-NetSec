@@ -48,7 +48,7 @@
 
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/topcommand.png)
 
-Jalankan Firewall, kemudian lihat seluruh proses di CPU dengan intruksi <b>top</b>, seperti contoh dibawah ini
+Jalankan Firewall, kemudian lihat seluruh proses di CPU dengan intruksi <b>top</b>, seperti contoh dibawah ini, firwalld sekarang telah berjalan, saat ini menggunakan 70% CPU yang terdiri dari : systemd 35, sshd 15, dan firewalld 20
 
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/firwallstart.png)
 
