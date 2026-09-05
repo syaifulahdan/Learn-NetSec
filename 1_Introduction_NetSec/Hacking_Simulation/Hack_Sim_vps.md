@@ -11,7 +11,8 @@
        Creating server...
 </pre>
 
-     ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/vps_create.png)
+    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/vps_create.png)
+
 
 <pre>
 
