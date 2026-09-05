@@ -26,7 +26,7 @@
    1 Install Firewal
 
    <pre>
-   learnnetsec@learnnetsec_server:/# <b>apt-get list packages</b>
+   learnnetsec@learnnetsec_server:/# <b>apt list packages</b>
    </pre>
 
 
