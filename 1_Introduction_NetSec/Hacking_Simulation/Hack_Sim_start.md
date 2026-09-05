@@ -4,8 +4,10 @@
 1. Please visit  [[hackthegame.com]](https://hackthegame.com/) and Watch [[Video Tutorial]](https://www.youtube.com/watch?v=0-gf05-1uAc)
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/hackthegame.png)
 
-3. Registering an account  [[Registry]](https://wiki.hackthegame.com/registering-an-account-wla5tvk1ul-sgoew5bj3if3)
+2. Registering an account  [[Registry]](https://wiki.hackthegame.com/registering-an-account-wla5tvk1ul-sgoew5bj3if3)
    - When you first open up the game you are an anonymous user on a public server called starterHub . This is reflected in the prompt of the terminal — anonymous@starterhub.
+Jadi Hal pertama yang akan dilakukan adalah mendaftarkan akun agar kita bisa masuk kedalamnya. Jika kita menggunakan mesin baru atau server mana pun, kita dapat mengetikan perintah <b>'available'</b> untuk melihat perintah mana yang tersedia bagi kita dalam sesi pengguna saat  ini.  dan anda bisa melihat dan melakukan banyak  hal. yang akan digunakan adalah perintah <b>'useradd'</b>. dan Jika kita ingin mengetahui lebih  lanjut tentang suatu perintah, kita dapat menggunakan perintah manual atau disingkat <b>'man'. Lalu kita bisa menjalankan <b>'man useradd'</b>.
+   
    <pre>
       anonymous@starterhub:/$
    </pre>
