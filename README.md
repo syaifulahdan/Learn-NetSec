@@ -9,7 +9,7 @@
    -  Basic Network Security Element  
    -  Running Visual NDNSim Example 
    -  Introduction to the CIA Aspects 
-   -  <b>Exercise 1</b> : Hacking Simulation 
+   -  <b>Exercise</b> : Hacking Simulation 
 
       
    ### <b>2. Network Attack</b>
