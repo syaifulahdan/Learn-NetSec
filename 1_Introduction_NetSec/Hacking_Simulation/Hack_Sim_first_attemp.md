@@ -9,3 +9,7 @@ Untuk Percobaan Peretasan pertama, Ikuti Skenario berikut :
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/lordnikon.png)
 
 -  Anda dapat melihat bahwa anda dapat mengirimkan pesan kepadanya dengan menyatakan **task** kepada **Lord Nikon**
+  <pre>
+  learnnetsec@learnnetsec_server:/bin/# **sendmail lordnikon**
+  </pre>
+-  
