@@ -5,7 +5,7 @@
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/hackthegame.png)
 
 3. Registering an account  [[Registry]](https://wiki.hackthegame.com/registering-an-account-wla5tvk1ul-sgoew5bj3if3)
-- When you first open up the game you are an anonymous user on a public server called starterHub . This is reflected in the prompt of the terminal — anonymous@starterhub.
+   - When you first open up the game you are an anonymous user on a public server called starterHub . This is reflected in the prompt of the terminal — anonymous@starterhub.
    <pre>
       anonymous@starterhub:/$
    </pre>
