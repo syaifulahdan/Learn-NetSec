@@ -7,3 +7,5 @@ Untuk Percobaan Peretasan pertama, Ikuti Skenario berikut :
 
 -  Setelah berada pada halaman Wiki, Klik pada bagian **Hacker** kemudian klik nama Hacker **LordNikon — Master of Memory**, maka akan tampil halaman seperti dibawah ini
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/lordnikon.png)
+
+-  Anda dapat melihat bahwa anda dapat mengirimkan pesan kepadanya dengan menyatakan **task** **Lord Nikon**
