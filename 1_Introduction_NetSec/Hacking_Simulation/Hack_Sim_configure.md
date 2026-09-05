@@ -1,6 +1,6 @@
    ### <b>Configure Server</b>
 
-   You really need to learn several commands, one of which is the 'ls' command which functions to display the files in the current folder. if the current folder is the root folder, or sign /. then the ls command will display the files in the root folder..
+   Sebelum melakukan peretasan, sebaiknya server diamankan terlebih dahulu, salah satu tindakan untuk pengamanan server adalah menginsal firewall. Jika anda ingin menginstall paket, memperbarui paket, atau menghapus paket, anda perlu menggunakan  pengelola paket. pada sistem dalam game  ini anda dapat menggunakan <b>'apt'</b>, jika anda tidak mengetahui apa itu, anda dapat mengetikan <b>'man apt'.</b>
    <pre>
    learnnetsec@learnnetsec_server:/# ls 
    </pre>
