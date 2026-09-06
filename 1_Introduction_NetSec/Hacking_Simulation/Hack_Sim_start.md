@@ -15,7 +15,7 @@ The first step is to register an account so we can log in. When using a new mach
    - anonymous@starterhub:/$  useradd wikidemo wikidemo@hackthegame.com
 Account created. Please check your email (*also check the spam-folder) for the password and use the su command to login.
    ```ruby
-   <b>anonymous@starterhub:/$</b> useradd learnnetsec learnnetsec17@gmail.com
+   anonymous@starterhub:/$ ***useradd learnnetsec learnnetsec17@gmail.com***
 
    Account created. Please check your email (*also check the spam-folder) for the password and use the su command to login.
    Message sent!
