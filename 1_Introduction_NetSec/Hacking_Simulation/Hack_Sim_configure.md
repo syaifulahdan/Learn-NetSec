@@ -45,7 +45,7 @@ Before attempting any hacking, it is best to secure the server first; one way to
 | sendmail | sendmail is a Mail Transfer Agent (MTA) program that functions to send, receive, and forward email over a network, primarily using the SMTP protocol. The main functions of sendmail are: 1. Sending email, 2. Receiving email, 3. Forwarding (relaying) email, 4. Managing the mail queue, and 5. Communicating using SMTP. |   
 | btc-transfer | `btc-transfer` is typically a program or command used to transfer Bitcoin (BTC) from one address or wallet to another. However, unlike `wget`, `sendmail`, or `sshd`, `btc-transfer` **is not a standard Linux command**; its exact function depends on the specific application in which it is used. |   
 | systemd |systemd is an init system and service manager found in many modern Linux distributions. Its primary function is to initialize the system during boot and manage services or daemons running in the background. The main functions of systemd include: 1. Running services during Linux boot-up, 2. Starting and stopping services, 3. Checking service status, 4. Enabling services to run automatically at boot, 5. Disabling services from startup, and 6. Managing processes and dependencies. |   
-| curl | Show file differences that haven't been staged |   
+| curl | curl is a command-line tool for communicating with servers over a network. It is frequently used to send or retrieve data via HTTP/HTTPS, though it also supports various other network protocols. Key functions of curl include: 1. Accessing web pages/APIs, 2. Downloading files, 3. Sending data to servers, 4. Testing connections and web services, and 5. Interacting with REST APIs. |   
 | peboeka | Show file differences that haven't been staged |   
 
  <pre>
