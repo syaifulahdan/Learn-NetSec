@@ -34,7 +34,7 @@ Before attempting any hacking, it is best to secure the server first; one way to
 
 | Packages| Description |
 | --- | --- |
-| Logd | menerima pesan log dari aplikasi atau service, menyimpan atau meneruskan pesan log, membantu sistem mencatat aktivitas/error|
+| Logd | menerima pesan log dari aplikasi atau service, menyimpan atau meneruskan pesan log, membantu sistem mencatat aktivitas/error, menyediakan informasi untuk debugging dan monitoring.|
 | maildf | Show file differences that haven't been staged |
 | firewalld | Show file differences that haven't been staged |
 | httpd | Show file differences that haven't been staged |   
