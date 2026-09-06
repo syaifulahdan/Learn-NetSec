@@ -1,5 +1,5 @@
 
-## 1.4. Hacking Simulation
+## 1.4. Exercise : Hacking Simulation
 In this section, we will cover: 1) how to register an account, 2) how to log into the game, 3) how to create your own server, and 4) how to perform your first hack. If any instructions are unclear, you can consult the Wiki, which explains most of these topics in detail; so, be sure to check it if anything is not clear. 
 
 <b>Tabel Of Content</b>
