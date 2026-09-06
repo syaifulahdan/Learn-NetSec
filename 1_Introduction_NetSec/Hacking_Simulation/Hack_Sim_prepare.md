@@ -9,6 +9,8 @@ Jika sekarang kita memeriksa email, maka anda akan melihat bahwa anda memiliki s
 atau masuk ke direktori /var/mail dengan perintah :
 <pre>
    learnnetsec@learnnetsec_server:/etc/apt/# <b>cd /var/mail</b>
+   learnnetsec@learnnetsec_server:/var/mail/# <b>ls</b>
+
 </pre>
  
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/cekmail.png)
