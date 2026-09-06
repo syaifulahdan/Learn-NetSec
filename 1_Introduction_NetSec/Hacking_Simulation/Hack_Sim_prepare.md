@@ -107,7 +107,7 @@ learnnetsec@learnnetsec_server:/etc/apt/# <b>vi sources.list</b>
 <pre>
 learnnetsec@learnnetsec_server:/etc/apt/# <b>apt list packages</b>
 
-APT-server afe2:9673:7fc4:05d6:7162:5813:ea53:83ec
+APT-server afe2:9673:7fc4:05d6:7162:5813:ea53:83ec <b>(Daftar paket lama)</b>
     logd
     maild
     firewalld
