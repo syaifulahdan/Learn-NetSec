@@ -28,7 +28,7 @@
    -  Introduction to the CIA Aspects 
    -  <b>Exercise</b> : Hacking Simulation
 
-<!-- Teks contoh -->
+<!-- tidak tampil -->
 
    ### <b>2. Network Attack</b>
    
@@ -121,4 +121,4 @@
 ### <b>14. Hardening</b>
    -  Hardening Techniques [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
    -  <b>Practice 1</b>: Hardening [[read]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/Simulation%20Secenario%20NDNSim-grid.md) | [[discussion and source code]](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Grid/ndn-grid.cpp)
-*/ 
+-->
