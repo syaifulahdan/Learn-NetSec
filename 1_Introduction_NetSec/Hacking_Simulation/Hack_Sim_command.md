@@ -8,7 +8,7 @@
    learnnetsec@starterhub:/# available 
    ```
       ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/learnnetsec_command.png)
-   <pre>
+   ```ruby
       Available commands are based on your current session.
       apt
       available
@@ -52,7 +52,7 @@
       who
       whoami
       whois
-    </pre>
+    ```
     
       For more info on the usage of a command, type: <b>man</b> command-name
    ```ruby
