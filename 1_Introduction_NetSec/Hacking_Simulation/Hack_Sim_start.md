@@ -8,9 +8,9 @@
    - When you first open up the game you are an anonymous user on a public server called starterHub . This is reflected in the prompt of the terminal — anonymous@starterhub.
 The first step is to register an account so we can log in. When using a new machine or any server, you can type the command <b>'available'</b> to see which commands are accessible during the current user session. The command we will use is <b>'useradd'</b>. If you want to learn more about a specific command, you can use the manual command—abbreviated as <b>'man'</b>—by running <b>'man useradd'</b>.
    
-   <pre>
+   ```ruby
       anonymous@starterhub:/$
-   </pre>
+   ```
    - To register an account you must use the command <b>useradd</b> [username] [email address]. You will recieve your password on the provided email address, so make sure you have access to it during setup.
    - anonymous@starterhub:/$  useradd wikidemo wikidemo@hackthegame.com
 Account created. Please check your email (*also check the spam-folder) for the password and use the su command to login.
