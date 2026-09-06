@@ -16,6 +16,9 @@ In this section, we will cover: 1) how to register an account, 2) how to log int
 
 1.4.6. Configuration for Hacking Experiments [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_first_attemp.md)
 
+1.4.7. Prepare for first Hack [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_first_attemp.md)
+
+
      
 <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md)
 
