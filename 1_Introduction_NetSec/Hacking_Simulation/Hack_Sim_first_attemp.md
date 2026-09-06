@@ -14,12 +14,20 @@ Untuk Percobaan Peretasan pertama, Ikuti Skenario berikut :
    learnnetsec@learnnetsec_server:/bin/# <b>sendmail lordnikon</b>
     </pre>
  ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/sendmail%20lordnikon.png)
- 
+
+   
   setelah anda mengirim email ke **Lord Nikon**, disinilah anda mengetik email anda, cukup ketik **task start** dan tekan Kirim (enter), dalam waktu sekitar **1 atau 2 menit**, akan menerima email balasan dari Lord Nikon.seperti ini : **Notice: You have 1 unread message!**
 
  ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/task-start.png)
  
+  atau dengan cara langsung seperti dibawah ini 
+  
+  <pre> 
+   learnnetsec@learnnetsec_server:/bin/# <b>sendmail lordnikon task-start</b>
+    </pre>
+ 
 Tunggu 1 sampai 2 menit,
 
 
+Jika dalam waktu 1 sampai dua menit belum mendapatkan notifikasi **You have 1 unread message!** anda dapat menggunakan perintah ***sendmail lordnikon task-status**
 
