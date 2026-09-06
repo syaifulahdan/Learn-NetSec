@@ -1,9 +1,9 @@
 ## Network Security - List of contents
 ***
 <b>Tabel Of Content</b>
-| No| Topic | Sub Topic | Action |
+| No | Topic | Sub Topic | Action |
 | --- | --- | --- | --- |
-|  1 | <b>Introduction Network Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 1 | <b>Introduction Network Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 2 | <b>Network Attack</b> |Introduction to Attack Techniques, Anatomy of Hacking, Scanning Theory, Scanning Exercise - NMAP, Understandig Scan Results,  Exercise : Enumaration| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 3 | <b>Password Security</b> |Password Craching Techniques, Dictionary Attack, Brute Force Attack, Wordlist, Exercise : Cracking Password Exercise| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 4 | <b>Sniffing & DoS</b> | Sniffing Technique, ARP Spoofing, DDoS, Sniffing Practice, Practice: Vulnerability Scanning | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
