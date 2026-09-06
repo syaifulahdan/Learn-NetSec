@@ -35,7 +35,7 @@ Before attempting any hacking, it is best to secure the server first; one way to
 | Packages| Description |
 | --- | --- |
 | Logd | Receives log messages from applications or services, stores or forwards log messages, assists the system in recording activities or errors, and provides information for debugging and monitoring.|
-| maildf | Show file differences that haven't been staged |
+| maild | A mail daemon is a program that runs in the background to handle email traffic on a system or server. Its primary functions are: 1. Receiving email from applications, users, or other servers. 2. Sending email to a destination server. 3. Relaying email to another server. 4. Storing or managing the email queue if delivery is not immediately possible. 5. Managing the delivery process using protocols such as SMTP. 6. Logging email delivery activities and errors. |
 | firewalld | Show file differences that haven't been staged |
 | httpd | Show file differences that haven't been staged |   
 | sshd | Show file differences that haven't been staged |   
