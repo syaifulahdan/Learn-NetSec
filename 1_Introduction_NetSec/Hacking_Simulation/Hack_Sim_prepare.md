@@ -69,7 +69,7 @@ learnnetsec@learnnetsec_server:/etc/apt/#
 
 
 <pre>
-learnnetsec@learnnetsec_server:/etc/apt/# vi sources.list
+learnnetsec@learnnetsec_server:/etc/apt/# <b>vi sources.list</b>
 
 afe2:9673:7fc4:05d6:7162:5813:ea53:83ec
 
