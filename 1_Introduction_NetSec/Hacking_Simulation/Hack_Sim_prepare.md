@@ -177,6 +177,13 @@ learnnetsec@learnnetsec_server:/etc/btc/# <b>ls</b>
 
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/btcls.png)
 
+Lihat Public key dengan perintah **vi**.
+<pre>
+learnnetsec@learnnetsec_server:/etc/apt/# <b>vi public.key</b>   
+</pre>
+
+![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/vipublickey.png)
+
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
