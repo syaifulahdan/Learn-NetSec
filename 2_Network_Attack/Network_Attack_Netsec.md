@@ -11,7 +11,7 @@
 | 2.5 | Understandig Scan Results  | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md) |  
 | 2.6 | Exercise : Enumaration  | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md) |  
 
-| **1** | **Back**  | [[ .... ]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/README.md)|  
+| **2** | **Back**  | [[ .... ]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/README.md)|  
     
 
  
