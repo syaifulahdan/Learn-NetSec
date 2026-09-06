@@ -161,7 +161,8 @@ seperti yang dikatakan oleh Lord Nikon, kita harus membuat dompet Bitcoin dengan
 <pre>
 learnnetsec@learnnetsec_server:/etc/apt/# <b></b>btc create/b>
 </pre>
-![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/btccreate.png
+
+![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/btccreate.png)
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
