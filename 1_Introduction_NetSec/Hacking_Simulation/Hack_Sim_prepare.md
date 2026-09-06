@@ -68,4 +68,16 @@ learnnetsec@learnnetsec_server:/etc/apt/#
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/lssourclist.png)
 
 
+<pre>
+learnnetsec@learnnetsec_server:/etc/apt/# vi sources.list
+
+afe2:9673:7fc4:05d6:7162:5813:ea53:83ec
+
+learnnetsec@learnnetsec_server:/etc/apt/#
+</pre>
+
+![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/viewsourclist.png)
+
+
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
+
