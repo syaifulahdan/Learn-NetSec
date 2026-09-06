@@ -18,14 +18,14 @@ atau masuk ke direktori /var/mail dengan perintah :
 Ada 7 email baru yang belum terbaca, untuk membaca file teks dapat menggunakan perintah V atau view, jadi **ketik V kemudian [nama file]**
 
 <pre>
-   RWX OWNER        LAST MODIFIED       NAME                           
-rw- LordNikon    2026-09-06 09:28:26 eXt3
-rw- LordNikon    2026-09-06 09:27:20 J2AR
-rw- LordNikon    2026-09-06 09:26:53 LDZd
-rw- LordNikon    2026-09-06 09:26:45 hPJW
-rw- LordNikon    2026-09-06 09:26:08 fJEx
-rw- LordNikon    2026-09-06 07:48:57 VheR
-rw- LordNikon    2026-09-06 07:39:11 uEHm
+RWX OWNER        LAST MODIFIED       NAME                           
+rw- LordNikon    2026-09-06 09:28:26 <b>eXt3</b>
+rw- LordNikon    2026-09-06 09:27:20 <b>J2AR</b>
+rw- LordNikon    2026-09-06 09:26:53 <b>LDZd</b>
+rw- LordNikon    2026-09-06 09:26:45 <b>hPJW</b>
+rw- LordNikon    2026-09-06 09:26:08 <b>fJEx</b>
+rw- LordNikon    2026-09-06 07:48:57 <b>VheR</b>
+rw- LordNikon    2026-09-06 07:39:11 <b>uEHm</b>
 </pre>
    
 
