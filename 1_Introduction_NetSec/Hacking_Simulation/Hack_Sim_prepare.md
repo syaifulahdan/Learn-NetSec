@@ -54,7 +54,6 @@ server aplikasi rahasia.
 - Tambahkan alamat  IP berikut ke baris baru di file ini, jadi mari kita salin alamat IP ini ke dalam file **/etc/apt/sources.list** dengan memilihnya. setelah menambahkan ip tersebut, anda dapat menginstal nmap dengan mengetikan  **get install nmap** atau **apt-install nmap**
 - Email ini juga mengatakan bahwa, sebelum anda dapat melakukan pekerjaan untuk saya, anda memerlukan Dompet Bitcoin. Buat satu di server anda menggunakan perintah **btc create** , mari kita lakukan dua hal  ini dan kemudia hubungi Lord Nikon.
 - 
-   <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
 <pre>
 learnnetsec@learnnetsec_server:/var/mail/# <b>cd /etc/apt</b>
@@ -67,3 +66,6 @@ learnnetsec@learnnetsec_server:/etc/apt/#
 </pre>
 
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/lssourclist.png)
+
+
+   <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
