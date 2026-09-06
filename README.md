@@ -14,11 +14,9 @@
 | 9 | <b>Firewall</b> | Firewall. IP Tables, DMZ (Demilitarized Zone), Practice: Firewall & IP Tables, | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 10 | <b>Intrusion Detection System (IDS)</b> | Introduction to IDS,  IDS Components, IPS (Intrusion Prevention System), Honeypot, Practice 1: IDS Practice, Practice 2: Honeypot Practice | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 11 | <b>Security System Design</b> | Security System Design,Hardening | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-
-| 12 | <b>Malware</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-
-| 13 | <b>Digital Forensic</b> | Malware, Malware Analysis Techniques, | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-| 14 | <b>Hardening</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 12 | <b>Malware</b> |Introduction Malware, Malware Analysis Techniques, Practice 1: Malware Analysis, Practice 2: Reverse Engineering | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 13 | <b>Digital Forensic</b> | Introduction Digital Forensics, Digital Forensics Techniques, Practice 1: Digital Forensics, Practice 2: Network Forensic Practice, Practice 3: Memory Forensics Practice| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 14 | <b>Hardening</b> |Hardening Techniques, Practice 1: Hardening | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 
 
 <b>Tabel Of Content</b>
