@@ -47,6 +47,10 @@ Before you can do jobs for me, you need a bitcoin wallet. Create one on your ser
 
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/viewemail.png)
 
+- Isi email dengan nama **uEHm** adalah email yang dikirim Lord Nikon kepada kita dan isinya mengatakan anda kehilangan alat penting di server anda, yaitu **nmap** dan ada banyak alat peretasan lainnya yang tersedia di  
+server aplikasi rahasia. 
+- Tambahkan alamat  IP berikut ke baris baru di file ini, jadi mari kita salin alamat IP ini dengan memilihnya. setelah menambahkan ip tersebut, anda dapat menginstal nmap dengan mengetikan  **get install nmap** atau **apt-install nmap**
+- Email ini juga mengatakan bahwa, sebelum anda dapat melakukan pekerjaan untuk saya, anda memerlukan Dompet Bitcoin. 
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
