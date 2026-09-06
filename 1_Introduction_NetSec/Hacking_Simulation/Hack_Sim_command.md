@@ -55,7 +55,7 @@
     </pre>
     
       For more info on the usage of a command, type: <b>man</b> command-name
-   ```
+   ```ruby
    learnnetsec@starterhub:/# <b>man</b> ping 
    ```
 
