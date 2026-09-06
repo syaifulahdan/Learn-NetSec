@@ -1,8 +1,8 @@
    ### <b>1.4.5. Configure Server</b>
 
 Before attempting any hacking, it is best to secure the server first; one way to do this is by installing a firewall. If you need to install, update, or remove packages, you must use a package manager. In this game's system, you can use 'apt'; if you are unfamiliar with it, you can type <b>'man apt'</b>.
-<pre>
-   learnnetsec@learnnetsec_server:/# <b>man apt</b>
+```ruby
+   learnnetsec@learnnetsec_server:/# man apt
    Manage software packages like logd, httpd, maild. For installing packages apt relies on /etc/apt/sources.list
 
    Listing all available packages
@@ -21,13 +21,13 @@ Before attempting any hacking, it is best to secure the server first; one way to
    Example: apt update httpd
 
    Update all packages: apt update *
-   </pre>
+   ```
 
    1 Install Firewal
 
-   <pre>
-   learnnetsec@learnnetsec_server:/# <b>apt list packages</b>
-   </pre>
+   ```ruby
+   learnnetsec@learnnetsec_server:/# apt list packages
+   ```
 
 
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/listpackage.png)
@@ -48,9 +48,9 @@ Before attempting any hacking, it is best to secure the server first; one way to
 | curl | curl is a command-line tool for communicating with servers over a network. It is frequently used to send or retrieve data via HTTP/HTTPS, though it also supports various other network protocols. Key functions of curl include: 1. Accessing web pages/APIs, 2. Downloading files, 3. Sending data to servers, 4. Testing connections and web services, and 5. Interacting with REST APIs. |   
 | peboeka | As for `peboeka` serving as a Linux command or program name, it is not a standard, common Linux command like `curl`, `wget`, `sshd`, or `systemd`; rather, it is a specialized program or command created for the HacktheGame lab environment. |   
 
- <pre>
-   learnnetsec@learnnetsec_server:/# <b>apt-get install firewalld</b>
-   </pre>
+ ```ruby
+   learnnetsec@learnnetsec_server:/# apt-get install firewalld
+   ```
    
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installfirewalld.png)
    
@@ -59,9 +59,9 @@ Before attempting any hacking, it is best to secure the server first; one way to
    
    To see which processes are running on the server and how much CPU is being used: as you can see, 50% of the CPU is currently in use, specifically by <b>systemd</b> and <b>sshd</b>. However, notice that firewalld is missing from this list; this is because we haven't started the firewall yet. To start the firewall, you can use the <b>`firewall start`</b> command.
     
-<pre>
-   learnnetsec@learnnetsec_server:/bin/# <b>top </b>
-</pre>
+```ruby
+   learnnetsec@learnnetsec_server:/bin/# top 
+```
 
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/topcommand.png)
 
@@ -70,49 +70,49 @@ Run the firewall, then view all CPU processes using the **top** command. As show
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/firwallstart.png)
 
 
-<pre>
-   learnnetsec@learnnetsec_server:/bin/# <b>firewall start </b>
-</pre>
+```ruby
+   learnnetsec@learnnetsec_server:/bin/# firewall start 
+```
 
    3 Installing more software
    
    Installing more software on your server also means **more potential security vulnerabilities.**
    - Install  **Maild**
-<pre>
-   learnnetsec@learnnetsec_server:/bin/# <b>apt install maild </b> 
-</pre>
+```ruby
+   learnnetsec@learnnetsec_server:/bin/# apt install maild  
+```
   
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installmaild.png)
 
 - Install **sendmail**
-<pre>
-   learnnetsec@learnnetsec_server:/bin/# <b>apt install sendmail </b> 
-</pre>
+```ruby
+   learnnetsec@learnnetsec_server:/bin/# apt install sendmail 
+```
   
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installsendmail.png)
 
  then run it with the command <b>maild start</b>
  
-<pre>
-   learnnetsec@learnnetsec_server:/bin/# <b>maild start </b>
-</pre>
+```ruby
+   learnnetsec@learnnetsec_server:/bin/# maild start 
+```
     
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/mailstart.png)
 
 After maild is run, it can be seen that maild creates a mail folder inside var, **/var/mail**, and that is where the email will be stored. 
 
 - Install **logd**
-<pre>
-   learnnetsec@learnnetsec_server:/bin/# <b>apt install logd </b> 
-</pre>
+```ruby
+   learnnetsec@learnnetsec_server:/bin/# apt install logd  
+```
   
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installlogd.png)
 
  then run it with the command <b>maild start</b>
  
-<pre>
-   learnnetsec@learnnetsec_server:/bin/# <b>logd start </b>
-</pre>
+```ruby
+   learnnetsec@learnnetsec_server:/bin/# logd start 
+```
     
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
