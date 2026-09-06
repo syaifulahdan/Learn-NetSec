@@ -55,9 +55,9 @@
     </pre>
     
       For more info on the usage of a command, type: <b>man</b> command-name
-   <pre>
-       learnnetsec@starterhub:/# <b>man</b> ping 
-   </pre>
+   ,,,
+       \\learnnetsec@starterhub:/# <b>man</b> ping 
+   ,,,
 
     <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
