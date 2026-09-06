@@ -6,8 +6,12 @@ Jika sekarang kita memeriksa email, maka anda akan melihat bahwa anda memiliki s
    learnnetsec@learnnetsec_server:/etc/apt/# <b>ls /var/mail</b>
 </pre>
 
+atau masuk ke direktori /var/mail dengan perintah :
+<pre>
+   learnnetsec@learnnetsec_server:/etc/apt/# <b>cd /var/mail</b>
+</pre>
  
-![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/menuwiki.png)
+![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/cekmail.png)
 
 
 
