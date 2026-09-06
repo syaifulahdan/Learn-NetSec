@@ -29,11 +29,8 @@ rw- LordNikon    2026-09-06 07:39:11 <b>uEHm</b>
 </pre>
    
 
-
 <pre>
-   learnnetsec@learnnetsec_server:/etc/apt/# <b>cd vi uEHm</b>
-  
-
+   learnnetsec@learnnetsec_server:/etc/apt/# <b>vi uEHm</b>
 </pre>
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
