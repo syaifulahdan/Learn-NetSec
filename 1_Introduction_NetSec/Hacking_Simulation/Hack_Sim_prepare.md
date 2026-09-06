@@ -1,8 +1,12 @@
 ### <b>1.4.7. Preparation for the First Hack</b>
 
-Untuk Percobaan Peretasan pertama, Ikuti Skenario berikut :
--  Kirim pesan ke peretas yang bernama **Lord Nikon**, pesan dikirim ke email nya. untuk mengirimkan pesan dapat membuka menu **Wiki**
+Jika sekarang kita memeriksa email, maka anda akan melihat bahwa anda memiliki satu pesan yang belum dibaca, dan seperti yang anda ingat, email disimpan didalam folder **mail** pada folder **var** : **/var/mail** jadi kita dapat melihat email pada direktori mail dengan menggunakan perintah
 
+<pre>
+   learnnetsec@learnnetsec_server:/etc/apt/# <b>ls /var/mail</b>
+</pre>
+
+ 
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/menuwiki.png)
 
 
