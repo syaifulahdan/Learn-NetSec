@@ -8,7 +8,7 @@
 | 3 | <b>Password Security</b> |Password Craching Techniques, Dictionary Attack, Brute Force Attack, Wordlist, Exercise : Cracking Password Exercise| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 4 | <b>Sniffing & DoS</b> | Sniffing Technique, ARP Spoofing, DDoS, Sniffing Practice, Practice: Vulnerability Scanning | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 5 | <b>Wireless Security</b> |Metasploit, Wireless Cracking, Web Security, Metasploit Practice,Practice 1: Wireless Cracking, Practice 2: Web Injection| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-| 6 | <b>Fundamental of Cryptography</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 6 | <b>Fundamental of Cryptography</b> |Cryptography Fundamentals, Classical Cryptography,  Symetric Cryptography, Asymetric Cryptography, Practice 1: Symetric Cryptography, Practice 2: PGP & Hashing, Practice 3: Steganography, Practice 4: Digital Watermak| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 7| <b>Adavanced of Cryptography</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 8 | <b>Authentication and VPN</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 9 | <b>Firewall</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
