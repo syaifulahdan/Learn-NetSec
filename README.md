@@ -4,6 +4,21 @@
 | No| Topic | Sub Topic | Action |
 | --- | --- | ---| --- |
 | 1 | <b>Introduction Network Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 2 | <b>Introduction Network Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 3 | <b>Introduction Network Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 4 | <b>Introduction Network Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 5 | <b>Introduction Network Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 6 | <b>Introduction Network Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 3 | <b>Introduction Network Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 3 | <b>Introduction Network Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 7| <b>Introduction Network Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 8 | <b>Introduction Network Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 9 | <b>Introduction Network Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 10 | <b>Introduction Network Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 11 | <b>Introduction Network Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 12 | <b>Introduction Network Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+
+
 
 | **1** | **Back**  | |[[ .... ]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/README.md)|  
 
