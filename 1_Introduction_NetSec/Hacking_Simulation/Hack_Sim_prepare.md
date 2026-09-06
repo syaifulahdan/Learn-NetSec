@@ -153,6 +153,15 @@ learnnetsec@learnnetsec_server:/etc/apt/# <b></b>apt install nmap</b>
 </pre>
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installnmap.png)
 
+**8 Membuat dompet Bitcoin**
+seperti yang dikatakan oleh Lord Nikon, kita harus membuat dompet Bitcoin dengan perinah **btc create** jika kita mengetikan perintah **man btc**, kita bisa melihat bahwa kia dapat membuat dompet dengan perintah **create**, menghapus dengan perintah **remove**, mendapatkan informasi tentang dompet kita, dengan perintah **info**. selanjutnya mari kita ketik **btc create**
+
+![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/manbtc.png)
+
+<pre>
+learnnetsec@learnnetsec_server:/etc/apt/# <b></b>btc create/b>
+</pre>
+![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/btccreate.png
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
