@@ -46,7 +46,7 @@ Before attempting any hacking, it is best to secure the server first; one way to
 | btc-transfer | `btc-transfer` is typically a program or command used to transfer Bitcoin (BTC) from one address or wallet to another. However, unlike `wget`, `sendmail`, or `sshd`, `btc-transfer` **is not a standard Linux command**; its exact function depends on the specific application in which it is used. |   
 | systemd |systemd is an init system and service manager found in many modern Linux distributions. Its primary function is to initialize the system during boot and manage services or daemons running in the background. The main functions of systemd include: 1. Running services during Linux boot-up, 2. Starting and stopping services, 3. Checking service status, 4. Enabling services to run automatically at boot, 5. Disabling services from startup, and 6. Managing processes and dependencies. |   
 | curl | curl is a command-line tool for communicating with servers over a network. It is frequently used to send or retrieve data via HTTP/HTTPS, though it also supports various other network protocols. Key functions of curl include: 1. Accessing web pages/APIs, 2. Downloading files, 3. Sending data to servers, 4. Testing connections and web services, and 5. Interacting with REST APIs. |   
-| peboeka | Show file differences that haven't been staged |   
+| peboeka | As for `peboeka` serving as a Linux command or program name, it is not a standard, common Linux command like `curl`, `wget`, `sshd`, or `systemd`; rather, it is a specialized program or command created for the HacktheGame lab environment. |   
 
  <pre>
    learnnetsec@learnnetsec_server:/# <b>apt-get install firewalld</b>
