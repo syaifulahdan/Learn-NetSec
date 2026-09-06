@@ -10,7 +10,6 @@
 | <p align="center">2.4</p> | Scanning Exercise - NMAP | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md) |  
 | <p align="center">2.5</p> | Understandig Scan Results  | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md) |  
 | <p align="center">2.6</p> | Exercise : Enumaration  | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md) |  
-
 | <p align="center">**2**</p> | **Back**  | [[ .... ]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/README.md)|  
     
 
