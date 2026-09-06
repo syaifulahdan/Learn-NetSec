@@ -6,15 +6,15 @@
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/manvps.png)
 
 1. Create VPS   
- <pre>
-    <b>learnnetsec@starterhub:/#</b> vps create
+ ```ruby
+    learnnetsec@starterhub:/# vps create
        Creating server...
-</pre>
+```
 
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/vps_create.png)
 
 
-<pre>
+```ruby
 
       VPS reboot initiated... [OK]
       sshd config config reset... [OK]
@@ -28,7 +28,7 @@
       To connect, use: vps connect
 
       learnnetsec@starterhub:/#
- </pre>
+ ```
 
 
 The `vps create` command sets up a server with an IP address and password, allowing you to connect to the VPS. You can connect to your server by using the `vps` command followed by `vps connect`. Additionally, every time you enter the game using the `su` command, you must connect to your server using `vps connect`.
