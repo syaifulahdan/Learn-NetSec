@@ -65,3 +65,5 @@ rw- systemd      2026-09-05 09:27:14 sources.list
 
 learnnetsec@learnnetsec_server:/etc/apt/#
 </pre>
+
+![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/lssourclist.png)
