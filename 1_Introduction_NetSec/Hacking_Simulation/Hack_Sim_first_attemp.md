@@ -34,3 +34,5 @@ Jika dalam waktu 1 sampai dua menit belum mendapatkan notifikasi **You have 1 un
   <pre> 
    learnnetsec@learnnetsec_server:/bin/# <b>sendmail lordnikon task-status</b>
     </pre>
+    
+ ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/taskstatus.png)
