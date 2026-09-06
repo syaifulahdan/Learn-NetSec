@@ -15,7 +15,26 @@ atau masuk ke direktori /var/mail dengan perintah :
  
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/cekmail.png)
 
+Ada 7 email baru yang belum terbaca, untuk membaca file teks dapat menggunakan perintah V atau view, jadi **ketik V kemudian [nama file]**
 
+<pre>
+   RWX OWNER        LAST MODIFIED       NAME                           
+rw- LordNikon    2026-09-06 09:28:26 eXt3
+rw- LordNikon    2026-09-06 09:27:20 J2AR
+rw- LordNikon    2026-09-06 09:26:53 LDZd
+rw- LordNikon    2026-09-06 09:26:45 hPJW
+rw- LordNikon    2026-09-06 09:26:08 fJEx
+rw- LordNikon    2026-09-06 07:48:57 VheR
+rw- LordNikon    2026-09-06 07:39:11 uEHm
+</pre>
+   
+
+
+<pre>
+   learnnetsec@learnnetsec_server:/etc/apt/# <b>cd vi uEHm</b>
+  
+
+</pre>
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
