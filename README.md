@@ -18,6 +18,9 @@
 | 13 | <b>Digital Forensic</b> | Introduction Digital Forensics, Digital Forensics Techniques, Practice 1: Digital Forensics, Practice 2: Network Forensic Practice, Practice 3: Memory Forensics Practice| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 14 | <b>Hardening</b> |Hardening Techniques, Practice 1: Hardening | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 
+```
+// Kode kamu di sini
+```
 
 <b>Tabel Of Content</b>
 
