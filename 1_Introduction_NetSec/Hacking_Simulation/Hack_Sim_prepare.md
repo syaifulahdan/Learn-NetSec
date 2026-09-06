@@ -69,7 +69,9 @@ learnnetsec@learnnetsec_server:/etc/apt/#
 
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/lssourclist.png)
 
-- Lihat file **sources.list** yang ada di direktori /etc/apt dengan menggunakan perintah **vi** dan file sources list berisikan alamat ip **afe2:9673:7fc4:05d6:7162:5813:ea53:83ec**
+**3. Lihat file Sources.list**
+
+- melihat file **sources.list** yang ada di direktori /etc/apt dengan menggunakan perintah **vi** dan file sources list berisikan alamat ip **afe2:9673:7fc4:05d6:7162:5813:ea53:83ec**
 
 <pre>
 learnnetsec@learnnetsec_server:/etc/apt/# <b>vi sources.list</b>
@@ -81,7 +83,9 @@ learnnetsec@learnnetsec_server:/etc/apt/#
 
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/viewsourclist.png)
 
-- Kemudian kita akan mengedit file sources.list menggunakan **vim**
+**4. Merubah file Sources.list**
+
+Kemudian kita akan mengedit file sources.list menggunakan **vim**
 
 <pre>
 learnnetsec@learnnetsec_server:/etc/apt/# <b>vim sources.list</b>
@@ -97,7 +101,9 @@ afe2:9673:7fc4:05d6:7162:5813:ea53:83ec
 
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/copyip.png)
 
-- Periksa apakah isi file **sources list** telah diperbaruhi, menggunakan perintah **vi**
+**5. Lihat perubahan file Sources.list**
+
+Periksa apakah isi file **sources list** telah diperbaruhi, menggunakan perintah **vi**
   
 <pre>
 learnnetsec@learnnetsec_server:/etc/apt/# <b>vi sources.list</b>
@@ -105,7 +111,9 @@ learnnetsec@learnnetsec_server:/etc/apt/# <b>vi sources.list</b>
 
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/cekupdatesourcelis.png)
 
-- periksa apakah paket sudah diperbarui dengan menggunakan perintah **apt list packages** atau **apt-get list packages**
+**6 Lihat Perubahan Paket**
+
+periksa apakah paket sudah diperbarui dengan menggunakan perintah **apt list packages** atau **apt-get list packages**
 <pre>
 learnnetsec@learnnetsec_server:/etc/apt/# <b>apt list packages</b>
 
