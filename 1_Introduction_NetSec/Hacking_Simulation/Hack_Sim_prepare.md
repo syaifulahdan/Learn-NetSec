@@ -172,6 +172,7 @@ learnnetsec@learnnetsec_server:/etc/apt/# <b>btc create</b>
 pada **folder btc** kita dapat melihat terdapat dua file **private key** kita hanya membutuhkan private key saat mengirim Bitcoin, tetapi kita akan melakukan peretasan, jadi kita mungkin akan mencuri beberapa Bitcoin, jadi kita membutuhkan key public. ini adalah key publik Bitcoin kita.
 <pre>
 learnnetsec@learnnetsec_server:/etc/apt/# <b>cd ../btc</b>   
+learnnetsec@learnnetsec_server:/etc/btc/# <b>ls</b>  
 </pre>
 
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/btcls.png)
