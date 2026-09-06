@@ -6,7 +6,7 @@ In this section, we will cover: 1) how to register an account, 2) how to log int
 
 | No| Description |
 | --- | --- |
-| 1.4.1 | Starting HackTheGame |
+| 1.4.1 | Starting HackTheGame [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_start.md) |
 | maild | A mail daemon is a program that runs in the background to handle email traffic on a system or server. Its primary functions are: 1. Receiving email from applications, users, or other servers. 2. Sending email to a destination server. 3. Relaying email to another server. 4. Storing or managing the email queue if delivery is not immediately possible. 5. Managing the delivery process using protocols such as SMTP. 6. Logging email delivery activities and errors. |
 | firewalld | Managing a firewall on Linux to control network traffic entering and leaving a computer or server. The primary functions of firewalld are: 1. Blocking unauthorized connections, 2. Allowing specific connections (e.g., allowing SSH on port 22, HTTP on port 80, and HTTPS on port 443), 3. Managing network ports (e.g., Port 22 → SSH → ALLOW; Port 80 → HTTP → ALLOW; Port 23 → Telnet → BLOCK), 4. Managing network zones; Firewalld utilizes zone concepts such as public, home, work, trusted, drop, and block, 5. Modifying firewall rules without needing to restart the entire firewall. | 
 | httpd | A program that runs in the background to provide web/HTTP services. In other words, httpd functions as a web server that receives requests from a browser or client and sends back pages or data in response. |   
