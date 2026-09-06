@@ -6,7 +6,7 @@ Jika sekarang kita memeriksa email, maka anda akan melihat bahwa anda memiliki s
 
 ```python
    learnnetsec@learnnetsec_server:/etc/apt/# ls /var/mail
-```ruby
+```
 
 atau masuk ke direktori /var/mail dengan perintah :
 <pre>
