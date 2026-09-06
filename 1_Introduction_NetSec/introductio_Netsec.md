@@ -5,9 +5,9 @@
 | No| Topic | Action |
 | --- | --- | ---|
 | 1.1 | Network Security Concepts  | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_start.md) |
-| 1.2 | Available commands   | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_command.md) |
-| 1.3 | Creating a Virtual Private Server (VPS)   | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_vps.md) | 
-| 1.4 | Connect to  Server   | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_command_learn.md) |  
+| 1.2 | Basic Network Security Element    | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_command.md) |
+| 1.3 | Introduction to the CIA Aspects   | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_vps.md) | 
+| 1.4 | Exercise 1 : Hacking Simulation  | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_command_learn.md) |  
 | **1** | **Back**  | [[ .... ]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md)|  
     
 
