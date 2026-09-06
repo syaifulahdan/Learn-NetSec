@@ -40,7 +40,23 @@ You are missing a vital tool on your server called nmap. This tool, and a lot of
 Add the following IP address to a new line in your /etc/apt/sources.list: a976:62cf:8029:ed4b:1d85:c8ed:a746:790f
 
 After adding that IP you can install nmap by typing: apt-get install nmap
+FROM: lordnikon
+DATE: 2026-09-06 07:39:11
+BODY:
+You are missing a vital tool on your server called nmap. This tool, and a lot of other hacking tools are available on a secret APT-server.
 
+Add the following IP address to a new line in your /etc/apt/sources.list: a976:62cf:8029:ed4b:1d85:c8ed:a746:790f
+
+After adding that IP you can install nmap by typing: apt-get install nmap
+
+
+Before you can do jobs for me, you need a bitcoin wallet. Create one on your server by typing: btc create
+
+![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/viewemail.png)
+
+
+
+--LordNikon
 
 Before you can do jobs for me, you need a bitcoin wallet. Create one on your server by typing: btc create
 
