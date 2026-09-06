@@ -31,3 +31,6 @@ Tunggu 1 sampai 2 menit,
 
 Jika dalam waktu 1 sampai dua menit belum mendapatkan notifikasi **You have 1 unread message!** anda dapat menggunakan perintah ***sendmail lordnikon task-status**
 
+  <pre> 
+   learnnetsec@learnnetsec_server:/bin/# <b>sendmail lordnikon task-status</b>
+    </pre>
