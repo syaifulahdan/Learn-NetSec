@@ -92,5 +92,8 @@ learnnetsec@learnnetsec_server:/etc/apt/# <b>vim sources.list</b>
 <pre>
 afe2:9673:7fc4:05d6:7162:5813:ea53:83ec
 </pre>
+
+![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/copyip.png)
+
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
