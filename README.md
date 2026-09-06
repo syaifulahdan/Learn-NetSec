@@ -18,7 +18,6 @@
 | 13 | <b>Digital Forensic</b> | Introduction Digital Forensics, Digital Forensics Techniques, Practice 1: Digital Forensics, Practice 2: Network Forensic Practice, Practice 3: Memory Forensics Practice| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 14 | <b>Hardening</b> |Hardening Techniques, Practice 1: Hardening | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 
-/*
 
 <b>Tabel Of Content</b>
 
@@ -27,9 +26,10 @@
    -  Network Security Concepts  
    -  Basic Network Security Element  
    -  Introduction to the CIA Aspects 
-   -  <b>Exercise</b> : Hacking Simulation 
+   -  <b>Exercise</b> : Hacking Simulation
 
-      
+<!-- Teks contoh -->
+
    ### <b>2. Network Attack</b>
    
    -  Introduction to Attack Techniques [[read]](https://github.com/Telmat2015/NDNWork/blob/master/NDN-Installation/1.%20Installasi%20NDNSim%20on%20Ubuntu%2016.04.md)
