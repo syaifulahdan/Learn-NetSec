@@ -7,7 +7,6 @@
    
    -  Network Security Concepts  
    -  Basic Network Security Element  
-   -  Running Visual NDNSim Example 
    -  Introduction to the CIA Aspects 
    -  <b>Exercise</b> : Hacking Simulation 
 
