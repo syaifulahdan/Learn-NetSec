@@ -147,6 +147,12 @@ learnnetsec@learnnetsec_server:/etc/apt/#
 
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/updatepackages.png)
 
+**7 Install nmap**
+<pre>
+learnnetsec@learnnetsec_server:/etc/apt/# <b></b>apt install nmap</b>
+</pre>
+![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installnmap.png)
+
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
