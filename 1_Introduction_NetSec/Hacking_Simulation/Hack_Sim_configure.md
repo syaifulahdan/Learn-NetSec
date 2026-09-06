@@ -114,7 +114,6 @@ After maild is run, it can be seen that maild creates a mail folder inside var, 
    learnnetsec@learnnetsec_server:/bin/# <b>logd start </b>
 </pre>
     
-   ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/mailstart.png)
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
