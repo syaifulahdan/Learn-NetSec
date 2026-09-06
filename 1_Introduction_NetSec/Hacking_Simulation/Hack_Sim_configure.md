@@ -101,6 +101,21 @@ Run the firewall, then view all CPU processes using the **top** command. As show
 
 After maild is run, it can be seen that maild creates a mail folder inside var, **/var/mail**, and that is where the email will be stored. 
 
+- Install **logd**
+<pre>
+   learnnetsec@learnnetsec_server:/bin/# <b>apt install logd </b> 
+</pre>
+  
+   ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installsendmail.png)
+
+ then run it with the command <b>maild start</b>
+ 
+<pre>
+   learnnetsec@learnnetsec_server:/bin/# <b>maild start </b>
+</pre>
+    
+   ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/mailstart.png)
+
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
 
