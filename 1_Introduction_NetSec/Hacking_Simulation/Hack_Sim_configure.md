@@ -106,12 +106,12 @@ After maild is run, it can be seen that maild creates a mail folder inside var, 
    learnnetsec@learnnetsec_server:/bin/# <b>apt install logd </b> 
 </pre>
   
-   ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installsendmail.png)
+   ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/installlogd.png)
 
  then run it with the command <b>maild start</b>
  
 <pre>
-   learnnetsec@learnnetsec_server:/bin/# <b>maild start </b>
+   learnnetsec@learnnetsec_server:/bin/# <b>logd start </b>
 </pre>
     
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/mailstart.png)
