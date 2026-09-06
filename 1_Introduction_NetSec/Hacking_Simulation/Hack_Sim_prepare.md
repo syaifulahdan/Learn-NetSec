@@ -179,7 +179,10 @@ learnnetsec@learnnetsec_server:/etc/btc/# <b>ls</b>
 
 Lihat Public key dengan perintah **vi**.
 <pre>
-learnnetsec@learnnetsec_server:/etc/apt/# <b>vi public.key</b>   
+learnnetsec@learnnetsec_server:/etc/apt/# <b>vi public.key</b>
+<b>CmRdrUXvSkncHxu8zJygfhPB</b>
+
+learnnetsec@learnnetsec_server:/etc/btc/#
 </pre>
 
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/vipublickey.png)
