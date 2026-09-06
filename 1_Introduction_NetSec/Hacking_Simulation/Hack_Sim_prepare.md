@@ -58,4 +58,9 @@ server aplikasi rahasia.
 
 <pre>
   learnnetsec@learnnetsec_server:/var/mail/# <b>cd /etc/apt</b>
+  learnnetsec@learnnetsec_server:/etc/apt/# <b>ls</b>
+   RWX OWNER        LAST MODIFIED       NAME                           
+   rw- systemd      2026-09-05 09:27:14 sources.list
+
+learnnetsec@learnnetsec_server:/etc/apt/#
 </pre>
