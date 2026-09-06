@@ -67,7 +67,7 @@ learnnetsec@learnnetsec_server:/etc/apt/#
 
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/lssourclist.png)
 
-Lihat file **sources.list** yang ada di direktori /etc/apt dengan menggunakan perintah **vi** dan file sources list berisikan alamat ip **afe2:9673:7fc4:05d6:7162:5813:ea53:83ec**
+- Lihat file **sources.list** yang ada di direktori /etc/apt dengan menggunakan perintah **vi** dan file sources list berisikan alamat ip **afe2:9673:7fc4:05d6:7162:5813:ea53:83ec**
 
 <pre>
 learnnetsec@learnnetsec_server:/etc/apt/# <b>vi sources.list</b>
@@ -79,7 +79,7 @@ learnnetsec@learnnetsec_server:/etc/apt/#
 
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/viewsourclist.png)
 
-Kemudian kita akan mengedit file sources.list menggunakan **vim**
+- Kemudian kita akan mengedit file sources.list menggunakan **vim**
 
 <pre>
 learnnetsec@learnnetsec_server:/etc/apt/# <b>vim sources.list</b>
