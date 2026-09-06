@@ -4,7 +4,7 @@
 <b>Tabel Of Content</b>
 | Sub-chapter| Sub-section| Action |
 | --- | --- | ---|
-| 1.1 | Network Security Concepts  | [[read]](https://github.com/syaifulahdan/NDNWork/blob/master/NDN-Installation/4.%20Installasi%20Netanim%20on%20Ubuntu%2020.04.md) |
+| <p align="center">1.1</p> | Network Security Concepts  | [[read]](https://github.com/syaifulahdan/NDNWork/blob/master/NDN-Installation/4.%20Installasi%20Netanim%20on%20Ubuntu%2020.04.md) |
 | 1.2 | Basic Network Security Element    | [[read]](https://github.com/syaifulahdan/NDNWork/blob/master/NDN-Installation/4.%20Installasi%20Netanim%20on%20Ubuntu%2020.04.md)|
 | 1.3 | Introduction to the CIA Aspects   | [[read]](https://github.com/syaifulahdan/NDNWork/blob/master/NDN-Installation/4.%20Installasi%20Netanim%20on%20Ubuntu%2020.04.md) | 
 | 1.4 | Exercise : Hacking Simulation  | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md) |  
