@@ -1,6 +1,7 @@
 ### <b>1.4.7. Preparation for the First Hack</b>
 
 **1. Periksa email**
+
 Jika sekarang kita memeriksa email, maka anda akan melihat bahwa anda memiliki satu pesan yang belum dibaca, dan seperti yang anda ingat, email disimpan didalam folder **mail** pada folder **var** : **/var/mail** jadi kita dapat melihat email pada direktori mail dengan menggunakan perintah
 
 <pre>
