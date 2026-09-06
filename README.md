@@ -9,23 +9,14 @@
 | 4 | <b>Sniffing & DoS</b> | Sniffing Technique, ARP Spoofing, DDoS, Sniffing Practice, Practice: Vulnerability Scanning | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 5 | <b>Wireless Security</b> |Metasploit, Wireless Cracking, Web Security,Metasploit Practice,Practice 1: Wireless Cracking, Practice 2: Web Injection| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 6 | <b>Fundamental of Cryptography</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-
 | 7| <b>Adavanced of Cryptography</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-
 | 8 | <b>Authentication and VPN</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-
 | 9 | <b>Firewall</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-
 | 10 | <b>Intrusion Detection System (IDS)</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-
 | 11 | <b>Security System Design</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-
 | 12 | <b>Malware</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-
 | 13 | <b>Digital Forensic</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-
 | 14 | <b>Hardening</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-
 <b>Tabel Of Content</b>
 
    ### <b>1. Introduction Network Security</b> [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md)
