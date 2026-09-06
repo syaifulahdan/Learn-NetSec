@@ -5,7 +5,7 @@
 | --- | --- | ---| --- |
 | 1 | <b>Introduction Network Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 2 | <b>Network Attack</b> |Introduction to Attack Techniques, Anatomy of Hacking, Scanning Theory, Scanning Exercise - NMAP, Understandig Scan Results,  Exercise 1: Enumaration| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-| 3 | <b>Password Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 3 | <b>Password Security</b> |Password Craching Techniques, Dictionary Attack, Brute Force Attack, Wordlist, Exercise 1: Cracking Password Exercise| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 4 | <b>Sniffing & DoS</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 5 | <b>Wireless Security</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 6 | <b>Fundamental of Cryptography</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
@@ -17,10 +17,6 @@
 | 12 | <b>Malware</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 13 | <b>Digital Forensic</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 14 | <b>Hardening</b> |Network Security Concepts, Basic Network Security Element, Introduction to the CIA Aspects, Exercise</b> : Hacking Simulation | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-
-
-
-| **1** | **Back**  | |[[ .... ]](https://github.com/syaifulahdan)|  
 
 <b>Tabel Of Content</b>
 
