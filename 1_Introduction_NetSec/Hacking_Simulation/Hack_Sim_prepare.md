@@ -1,5 +1,6 @@
 ### <b>1.4.7. Preparation for the First Hack</b>
 
+**1. Periksa email**
 Jika sekarang kita memeriksa email, maka anda akan melihat bahwa anda memiliki satu pesan yang belum dibaca, dan seperti yang anda ingat, email disimpan didalam folder **mail** pada folder **var** : **/var/mail** jadi kita dapat melihat email pada direktori mail dengan menggunakan perintah
 
 <pre>
@@ -47,7 +48,7 @@ Before you can do jobs for me, you need a bitcoin wallet. Create one on your ser
 
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/viewemail.png)
 
-**isi email**
+**2. Buka email**
 
 - Isi email dengan nama **uEHm** adalah email yang dikirim Lord Nikon kepada kita dan isinya mengatakan anda kehilangan alat penting di server anda, yaitu **nmap** dan ada banyak alat peretasan lainnya yang tersedia di  
 server aplikasi rahasia. 
