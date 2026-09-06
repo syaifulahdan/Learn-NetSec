@@ -103,6 +103,39 @@ learnnetsec@learnnetsec_server:/etc/apt/# <b>vi sources.list</b>
 
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/cekupdatesourcelis.png)
 
+- periksa apakah paket sudah diperbarui dengan menggunakan perintah **apt list packages** atau **apt-get list packages**
+<pre>
+learnnetsec@learnnetsec_server:/etc/apt/# <b>apt list packages</b>
+
+APT-server afe2:9673:7fc4:05d6:7162:5813:ea53:83ec
+    logd
+    maild
+    firewalld
+    httpd
+    sshd
+    bash
+    modsecurity
+    wget
+    sendmail
+    btc-transfer
+    systemd
+    curl
+    peboeka
+ 
+APT-server a976:62cf:8029:ed4b:1d85:c8ed:a746:790f <b>(Daftar paket yang baru ditambahkan)</b>
+    nmap
+    mailxpl01t
+    httpwnd
+    btcr4ck
+    xpresshion
+    btcsrvd
+    btcminerd
+    hacktheplanet
+ 
+
+learnnetsec@learnnetsec_server:/etc/apt/#
+</pre>
+
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
