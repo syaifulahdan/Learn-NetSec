@@ -10,8 +10,8 @@ Jika sekarang kita memeriksa email, maka anda akan melihat bahwa anda memiliki s
 
 atau masuk ke direktori /var/mail dengan perintah :
 ```ruby
-   learnnetsec@learnnetsec_server:/etc/apt/# <b>cd /var/mail</b>
-   learnnetsec@learnnetsec_server:/var/mail/# <b>ls</b>
+   learnnetsec@learnnetsec_server:/etc/apt/# cd /var/mail
+   learnnetsec@learnnetsec_server:/var/mail/# ls
 
 ```
  
@@ -186,7 +186,7 @@ Lihat Public key dengan perintah **vi**.
 ```ruby
 learnnetsec@learnnetsec_server:/etc/apt/# vi public.key
 
-<b>CmRdrUXvSkncHxu8zJygfhPB</b>
+CmRdrUXvSkncHxu8zJygfhPB
 
 ```
 
