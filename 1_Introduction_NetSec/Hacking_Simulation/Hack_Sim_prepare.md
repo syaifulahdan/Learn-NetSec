@@ -85,7 +85,10 @@ learnnetsec@learnnetsec_server:/etc/apt/#
 learnnetsec@learnnetsec_server:/etc/apt/# <b>vim sources.list</b>
 </pre>
 
-ini adadalah alamat IP yang ada pada file sources.list
+![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/vimsourcelist.png)
+
+
+ini adalah alamat IP yang ada pada file sources.list
 <pre>
 afe2:9673:7fc4:05d6:7162:5813:ea53:83ec
 </pre>
