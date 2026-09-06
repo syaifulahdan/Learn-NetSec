@@ -185,9 +185,9 @@ Lihat Public key dengan perintah **vi**.
 
 ```ruby
 learnnetsec@learnnetsec_server:/etc/apt/# vi public.key
+
 <b>CmRdrUXvSkncHxu8zJygfhPB</b>
 
-learnnetsec@learnnetsec_server:/etc/btc/#
 ```
 
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/vipublickey.png)
