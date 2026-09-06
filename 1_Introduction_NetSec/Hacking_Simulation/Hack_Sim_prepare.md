@@ -95,7 +95,7 @@ afe2:9673:7fc4:05d6:7162:5813:ea53:83ec
 
 ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/copyip.png)
 
-- Kemudian periksa apakah isi file **sources list** telah diperbaruhi, menggunakan perintah **vi**
+- Periksa apakah isi file **sources list** telah diperbaruhi, menggunakan perintah **vi**
   
 <pre>
 learnnetsec@learnnetsec_server:/etc/apt/# <b>vi sources.list</b>
