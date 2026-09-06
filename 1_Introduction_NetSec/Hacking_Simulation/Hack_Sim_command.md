@@ -1,6 +1,6 @@
 
 
-   ### <b>Viewing available commands</b>
+   ### <b>1.4.2. Viewing available commands</b>
      
    
 1. Use the Available command to view the list of available commands.
