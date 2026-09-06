@@ -1,4 +1,4 @@
-### <b>First Hacking Attempt</b>
+### <b>Configuration for Hacking Experiments</b>
 
 Untuk Percobaan Peretasan pertama, Ikuti Skenario berikut :
 -  Kirim pesan ke peretas yang bernama **Lord Nikon**, pesan dikirim ke email nya. untuk mengirimkan pesan dapat membuka menu **Wiki**
