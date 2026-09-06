@@ -1,4 +1,4 @@
-### <b>1.4.7. Preparing for the First Hack</b>
+### <b>1.4.7. Preparation for the First Hack</b>
 
 Untuk Percobaan Peretasan pertama, Ikuti Skenario berikut :
 -  Kirim pesan ke peretas yang bernama **Lord Nikon**, pesan dikirim ke email nya. untuk mengirimkan pesan dapat membuka menu **Wiki**
