@@ -1,5 +1,5 @@
 
-   ### <b>Creating a Virtual Private Server (VPS)</b>
+   ### <b>1.4.3. Creating a Virtual Private Server (VPS)</b>
 
    When entering the game for the first time, you need to create your own server; VPS stands for Virtual Private Server. If you run the <b>'man'</b> command, you will see that 'VPS' accepts various parameters, but the one used most frequently is for creating a new VPS. The <b>'vps create'</b> command is used to create your own server.
 
