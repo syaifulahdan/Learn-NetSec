@@ -10,12 +10,14 @@
 | 5 | <b>Wireless Security</b> |Metasploit, Wireless Cracking, Web Security, Metasploit Practice,Practice 1: Wireless Cracking, Practice 2: Web Injection| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 6 | <b>Fundamental of Cryptography</b> |Cryptography Fundamentals, Classical Cryptography,  Symetric Cryptography, Asymetric Cryptography, Practice 1: Symetric Cryptography, Practice 2: PGP & Hashing, Practice 3: Steganography, Practice 4: Digital Watermak| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 7| <b>Adavanced of Cryptography</b> | Zero-Knowledge Proofs (ZKP, Homomorphic Encryption, Post-Quantum Cryptography (PQC), Multi-Party Computation (MPC), Practice 1: ZKP Practice, Practice 2: Homomorphic Practice, Practice 3: PQC Practice, Practice 4: MPC Practice| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-| 8 | <b>Authentication and VPN</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-| 9 | <b>Firewall</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-| 10 | <b>Intrusion Detection System (IDS)</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-| 11 | <b>Security System Design</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 8 | <b>Authentication and VPN</b> | Authentication Fundamentals, Virtual Private Network (VPN), Practice 1: Secure Sockets Layer (SSL), Practice 2: VPN| [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 9 | <b>Firewall</b> | Firewall. IP Tables, DMZ (Demilitarized Zone), Practice: Firewall & IP Tables, | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 10 | <b>Intrusion Detection System (IDS)</b> | Introduction to IDS,  IDS Components, IPS (Intrusion Prevention System), Honeypot, Practice 1: IDS Practice, Practice 2: Honeypot Practice | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+| 11 | <b>Security System Design</b> | Security System Design,Hardening | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+
 | 12 | <b>Malware</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
-| 13 | <b>Digital Forensic</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
+
+| 13 | <b>Digital Forensic</b> | Malware, Malware Analysis Techniques, | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 | 14 | <b>Hardening</b> | | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md) |
 
 
