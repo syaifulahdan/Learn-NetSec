@@ -36,7 +36,12 @@ Before attempting any hacking, it is best to secure the server first; one way to
 | --- | --- |
 | Logd | Receives log messages from applications or services, stores or forwards log messages, assists the system in recording activities or errors, and provides information for debugging and monitoring.|
 | maild | A mail daemon is a program that runs in the background to handle email traffic on a system or server. Its primary functions are: 1. Receiving email from applications, users, or other servers. 2. Sending email to a destination server. 3. Relaying email to another server. 4. Storing or managing the email queue if delivery is not immediately possible. 5. Managing the delivery process using protocols such as SMTP. 6. Logging email delivery activities and errors. |
-| firewalld | Show file differences that haven't been staged |
+| firewalld | Managing a firewall on Linux to control network traffic entering and leaving a computer or server. The primary functions of firewalld are:
+1. Blocking unauthorized connections,
+2. Allowing specific connections (e.g., allowing SSH on port 22, HTTP on port 80, and HTTPS on port 443),
+3. Managing network ports (e.g., Port 22 → SSH → ALLOW; Port 80 → HTTP → ALLOW; Port 23 → Telnet → BLOCK),
+4. Managing network zones; Firewalld utilizes zone concepts such as public, home, work, trusted, drop, and block,
+5. Modifying firewall rules without needing to restart the entire firewall. |
 | httpd | Show file differences that haven't been staged |   
 | sshd | Show file differences that haven't been staged |   
 | bash | Show file differences that haven't been staged |   
