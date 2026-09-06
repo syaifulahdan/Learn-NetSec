@@ -32,12 +32,22 @@ Before attempting any hacking, it is best to secure the server first; one way to
 
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/listpackage.png)
 
-| Command | Description |
+| Packages| Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Logd | List all new or modified files |
+| maildf | Show file differences that haven't been staged |
+| firewalld | Show file differences that haven't been staged |
+| httpd | Show file differences that haven't been staged |   
+| sshd | Show file differences that haven't been staged |   
+| bash | Show file differences that haven't been staged |   
+| modsecurity | Show file differences that haven't been staged |   
+| wget | Show file differences that haven't been staged |   
+| sendmail | Show file differences that haven't been staged |   
+| btc-transfer | Show file differences that haven't been staged |   
+| systemd | Show file differences that haven't been staged |   
+| curl | Show file differences that haven't been staged |   
+| peboeka | Show file differences that haven't been staged |   
 
-   
  <pre>
    learnnetsec@learnnetsec_server:/# <b>apt-get install firewalld</b>
    </pre>
