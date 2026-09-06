@@ -14,24 +14,25 @@ The first step is to register an account so we can log in. When using a new mach
    - To register an account you must use the command <b>useradd</b> [username] [email address]. You will recieve your password on the provided email address, so make sure you have access to it during setup.
    - anonymous@starterhub:/$  useradd wikidemo wikidemo@hackthegame.com
 Account created. Please check your email (*also check the spam-folder) for the password and use the su command to login.
-   <pre>
+   ```ruby
    <b>anonymous@starterhub:/$</b> useradd learnnetsec learnnetsec17@gmail.com
 
    Account created. Please check your email (*also check the spam-folder) for the password and use the su command to login.
    Message sent!
    anonymous@starterhub:/$
-   </pre>
+   ```
 
     ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/learnnetsec-useradd.png)
 
 
 3. Login Account
    <b>anonymous@starterhub:/$</b> su [username] [password]
-   <pre>
+
+   ```ruby
    anonymous@starterhub:/$ su learnnetsec ****
       To use your custom theme [green] use the command: refresh
       learnnetsec@starterhub:/#
-   </pre>
+   ```
 
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
