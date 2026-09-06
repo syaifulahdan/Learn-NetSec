@@ -1,6 +1,14 @@
 
 ## 1.Introduction Network Security- List of contents
 
+<b>Tabel Of Content</b>
+| No| Topic | Action |
+| --- | --- | ---|
+| 1.1 | Network Security Concepts  | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_start.md) |
+| 1.2 | Available commands   | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_command.md) |
+| 1.3 | Creating a Virtual Private Server (VPS)   | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_vps.md) | 
+| 1.4 | Connect to  Server   | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_command_learn.md) |  
+| 1 | Prepare for first Hack   | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_command.md) |  
 
 <b>Tabel Of Content</b>
   
