@@ -53,7 +53,7 @@ Before you can do jobs for me, you need a bitcoin wallet. Create one on your ser
 server aplikasi rahasia. 
 - Tambahkan alamat  IP berikut ke baris baru di file ini, jadi mari kita salin alamat IP ini ke dalam file **/etc/apt/sources.list** dengan memilihnya. setelah menambahkan ip tersebut, anda dapat menginstal nmap dengan mengetikan  **get install nmap** atau **apt-install nmap**
 - Email ini juga mengatakan bahwa, sebelum anda dapat melakukan pekerjaan untuk saya, anda memerlukan Dompet Bitcoin. Buat satu di server anda menggunakan perintah **btc create** , mari kita lakukan dua hal  ini dan kemudia hubungi Lord Nikon.
-- 
+  
 
 <pre>
 learnnetsec@learnnetsec_server:/var/mail/# <b>cd /etc/apt</b>
