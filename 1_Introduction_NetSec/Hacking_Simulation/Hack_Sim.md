@@ -4,7 +4,7 @@ In this section, we will cover: 1) how to register an account, 2) how to log int
 
 <b>Tabel Of Content</b>
 
-| Packages| Description |
+| No| Description |
 | --- | --- |
 | 1.4.1 | Starting HackTheGame |
 | maild | A mail daemon is a program that runs in the background to handle email traffic on a system or server. Its primary functions are: 1. Receiving email from applications, users, or other servers. 2. Sending email to a destination server. 3. Relaying email to another server. 4. Storing or managing the email queue if delivery is not immediately possible. 5. Managing the delivery process using protocols such as SMTP. 6. Logging email delivery activities and errors. |
