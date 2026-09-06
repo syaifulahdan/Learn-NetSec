@@ -132,9 +132,10 @@ APT-server a976:62cf:8029:ed4b:1d85:c8ed:a746:790f <b>(Daftar paket yang baru di
     btcminerd
     hacktheplanet
  
-
 learnnetsec@learnnetsec_server:/etc/apt/#
 </pre>
+
+![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/updatepackages.png)
 
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
