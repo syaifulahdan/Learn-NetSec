@@ -2,7 +2,7 @@
 ## 1.Introduction Network Security
 
 <b>Tabel Of Content</b>
-| No| Topic | Action |
+| Subsection| Subtopic| Action |
 | --- | --- | ---|
 | 1.1 | Network Security Concepts  | [[read]](https://github.com/syaifulahdan/NDNWork/blob/master/NDN-Installation/4.%20Installasi%20Netanim%20on%20Ubuntu%2020.04.md) |
 | 1.2 | Basic Network Security Element    | [[read]](https://github.com/syaifulahdan/NDNWork/blob/master/NDN-Installation/4.%20Installasi%20Netanim%20on%20Ubuntu%2020.04.md)|
