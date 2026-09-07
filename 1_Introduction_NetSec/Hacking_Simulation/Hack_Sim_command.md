@@ -92,39 +92,39 @@
 | session |Displays or manages the current session. |  
 | setcolor |Changes the terminal display color.|  
 | ss |Displays network socket and connection information.|  
-| ssh ||  
-| stdout ||  
-| tail ||  
-| top ||  
-| touch ||  
-| vi ||  
-| vim ||  
-| vps ||  
-| who ||  
-| whoami ||  
-| whois ||  
+| ssh |Connects to a remote computer/server using SSH.|  
+| stdout |Refers to standard output, the normal output stream of a process.|  
+| tail |Displays the end of a file, commonly used to monitor log files.|  
+| top |Monitors running processes and CPU/RAM usage in real time.|  
+| touch |Creates an empty file or updates a file's timestamp.|  
+| vi |A terminal-based text editor.|  
+| vim |An enhanced version of vi, a terminal-based text editor.|  
+| vps |Likely a custom command for managing or interacting with a Virtual Private Server (VPS).|  
+| who |Displays users currently logged in.|  
+| whoami |Displays the username of the currently logged-in user.|  
+| whois |Retrieves registration information about a domain or IP address.|  
 
 2. Command Categories
 -  File and Directory Management:
 cd, ls, pwd, cp, mv, rm, mkdir, rmdir, touch, find, chmod
 
 -  Process Management:
-ps, top, kill, pkill
+     ps, top, kill, pkill
 
 -  Networking:
-ifconfig, ping, ss, ssh, whois
+   ifconfig, ping, ss, ssh, whois
 
 -  System and User Management:
-hostname, date, who, whoami, passwd, logout
+   hostname, date, who, whoami, passwd, logout
 
 -  Text Editors:
-vi, vim
+   vi, vim
 
 -  Package Management:
-apt
+   apt
 
 -  Custom Commands in the Current Environment:
-available, btc, hacktheplanet, peboeka, refresh, session, setcolor, stdout, vps
+   available, btc, hacktheplanet, peboeka, refresh, session, setcolor, stdout, vps
    
 
     <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
