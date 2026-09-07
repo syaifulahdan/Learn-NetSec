@@ -63,10 +63,16 @@
 | command| Brief function| 
 | --- | --- |
 | apt | Manages software packages on Debian/Ubuntu, such as installing, updating, and removing packages.  | 
-| <p align="center">1.2</p> | Basic Network Security Element    |
-| <p align="center">1.3</p> | Introduction to the CIA Aspects   | 
-| <p align="center">1.4</p> | Exercise : Hacking Simulation  | 
-
+| available align="center">1.2</p> | Basic Network Security Element    |
+| btc | A command related to Bitcoin/cryptocurrency; its exact function depends on the system.   | 
+| cd | Changes the current directory. | 
+| chmod | Changes file or directory permissions.  | 
+| cls | Clears the terminal screen.  | 
+| cp |  Copies files or directories. | 
+| date | Displays the system date and time.  | 
+| disconnect |Disconnects from the current session or server.   | 
+| find |  Searches for files or directories based on specified criteria. | 
+| hacktheplanet |  A custom command or feature in the current environment; not a standard Linux command. |  
 
     <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
