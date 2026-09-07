@@ -113,18 +113,23 @@ cd, ls, pwd, cp, mv, rm, mkdir, rmdir, touch, find, chmod
      ps, top, kill, pkill
 
 -  Networking:
+
    ifconfig, ping, ss, ssh, whois
 
 -  System and User Management:
+
    hostname, date, who, whoami, passwd, logout
 
 -  Text Editors:
-   vi, vim
+
+    vi, vim
 
 -  Package Management:
+
    apt
 
 -  Custom Commands in the Current Environment:
+
    available, btc, hacktheplanet, peboeka, refresh, session, setcolor, stdout, vps
    
 
