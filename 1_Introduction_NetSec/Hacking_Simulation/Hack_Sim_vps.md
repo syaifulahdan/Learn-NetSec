@@ -41,9 +41,15 @@ So, once you are connected to the server, your account will no longer be <b>demo
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
 
-2. connect to VPS   
+2. Connect to VPS   
  ```ruby
     learnnetsec@starterhub:/# vps connect
        Creating server...
 ```
    ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/vpsconnect.png)
+
+3. Disconnect to VPS   
+ ```ruby
+    learnnetsec@starterhub:/# disconnect
+       Creating server...
+```
