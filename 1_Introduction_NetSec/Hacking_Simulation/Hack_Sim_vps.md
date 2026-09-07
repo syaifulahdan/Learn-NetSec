@@ -36,18 +36,5 @@ The `vps create` command sets up a server with an IP address and password, allow
 So, once you are connected to the server, your account will no longer be <b>demo@starterHub</b>—or, in my current case, <b>learnnetsec@starterhub</b>—but will instead become <b>demo@demo_server</b>.
     
 
-2. Connect to VPS   
- ```ruby
-    learnnetsec@starterhub:/# vps connect
-       Creating server...
-```
-   ![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/vpsconnect.png)
 
-3. Disconnect to VPS   
- ```ruby
-learnnetsec@learnnetsec_server:/# disconnect 
-
-	
-learnnetsec@starterhub:/#
-```
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
