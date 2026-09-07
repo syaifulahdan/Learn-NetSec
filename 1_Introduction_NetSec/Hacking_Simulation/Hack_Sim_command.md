@@ -63,7 +63,7 @@
 | command| Brief function| 
 | --- | --- |
 | apt | Manages software packages on Debian/Ubuntu, such as installing, updating, and removing packages.  | 
-| available align="center">1.2</p> | Basic Network Security Element    |
+| available/p> | Basic Network Security Element    |
 | btc | A command related to Bitcoin/cryptocurrency; its exact function depends on the system.   | 
 | cd | Changes the current directory. | 
 | chmod | Changes file or directory permissions.  | 
@@ -72,7 +72,60 @@
 | date | Displays the system date and time.  | 
 | disconnect |Disconnects from the current session or server.   | 
 | find |  Searches for files or directories based on specified criteria. | 
-| hacktheplanet |  A custom command or feature in the current environment; not a standard Linux command. |  
+| hostname |  Displays or sets the computer's hostname |  
+| ifconfig | Displays or configures network interface information, such as IP and MAC addresses.|  
+| kill | Terminates a process using its PID (Process ID).|  
+| logout | Logs out of the current shell/session.|  
+| ls |Lists files and directories. |  
+| man | Displays the manual/documentation for a command.|  
+| mkdir | Creates a new directory.|  
+| mv |Moves or renames files and directories. |  
+| passwd |Changes a user's password. |  
+| peboeka |A custom command in the current environment; not a standard Linux command. |  
+| ping | Tests network connectivity to a specified host.|  
+| pkill |Terminates processes based on their process name. |  
+| ps |Displays currently running processes. |  
+| pwd |Displays the current working directory. |  
+| refresh | Refreshes the display or current session; its exact function depends on the environment.|  
+| rm |Removes files or directories. |  
+| rmdir | Removes empty directories.|  
+| session |Displays or manages the current session. |  
+| setcolor |Changes the terminal display color.|  
+| ss |Displays network socket and connection information.|  
+| ssh ||  
+| stdout ||  
+| tail ||  
+| top ||  
+| touch ||  
+| vi ||  
+| vim ||  
+| vps ||  
+| who ||  
+| whoami ||  
+| whois ||  
+
+2. Command Categories
+-  File and Directory Management:
+cd, ls, pwd, cp, mv, rm, mkdir, rmdir, touch, find, chmod
+
+-  Process Management:
+ps, top, kill, pkill
+
+-  Networking:
+ifconfig, ping, ss, ssh, whois
+
+-  System and User Management:
+hostname, date, who, whoami, passwd, logout
+
+-  Text Editors:
+vi, vim
+
+-  Package Management:
+apt
+
+-  Custom Commands in the Current Environment:
+available, btc, hacktheplanet, peboeka, refresh, session, setcolor, stdout, vps
+   
 
     <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
