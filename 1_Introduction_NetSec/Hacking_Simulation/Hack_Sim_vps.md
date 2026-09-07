@@ -34,12 +34,7 @@
 The `vps create` command sets up a server with an IP address and password, allowing you to connect to the VPS. You can connect to your server by using the `vps` command followed by `vps connect`. Additionally, every time you enter the game using the `su` command, you must connect to your server using `vps connect`.
 
 So, once you are connected to the server, your account will no longer be <b>demo@starterHub</b>—or, in my current case, <b>learnnetsec@starterhub</b>—but will instead become <b>demo@demo_server</b>.
-   
     
-
-
-   <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
-
 
 2. Connect to VPS   
  ```ruby
@@ -53,3 +48,4 @@ So, once you are connected to the server, your account will no longer be <b>demo
     learnnetsec@starterhub:/# disconnect
        Creating server...
 ```
+   <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
