@@ -279,7 +279,12 @@ selanjunya, mari kita salin public key,
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
-salin public key ke dalam dokumen terpisah, seperti notepad, dan  kemudian menghubungi Lord Nikon kembali,kirim email ke Lord Nikon dengan cara yang sama seperti sebelumnya
+salin public key ke dalam dokumen terpisah, seperti notepad, 
+
+![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/notepad%20%20publickey.png)
+
+
+kemudian menghubungi Lord Nikon kembali,kirim email ke Lord Nikon dengan cara yang sama seperti sebelumnya
 
 ```ruby
 learnnetsec@learnnetsec_server:/etc/btc/# 
