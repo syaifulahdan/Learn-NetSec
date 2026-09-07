@@ -210,4 +210,23 @@ kemudian menghubungi Lord Nikon kembali,kirim email ke Lord Nikon dengan cara ya
 learnnetsec@learnnetsec_server:/etc/btc/# sendmail lordnikon
 
 ```
+Cek di direktori /var/mail, apakah sudah mendapatkan balasan dari Lord Nikon
+
+```ruby
+learnnetsec@learnnetsec_server:/etc/btc/# ls /var/mail
+
+RWX OWNER        LAST MODIFIED       NAME                           
+rw- LordNikon    2026-09-07 10:04:42 g6Qa
+rw- LordNikon    2026-09-06 07:39:11 uEHm 
+
+learnnetsec@learnnetsec_server:/etc/btc/#
+```
+terdapat email baru pada /var/mail dari Lord Nikon dengan nama **g6Qa**
+
+![alt tag](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/hacksim_image/mail2.png)
+
+
+
+
+
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
