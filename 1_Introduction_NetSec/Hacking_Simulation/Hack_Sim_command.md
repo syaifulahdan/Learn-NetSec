@@ -58,6 +58,7 @@
    ```ruby
    learnnetsec@starterhub:/# <b>man</b> ping 
    ```
+2. Command Function.
 
     <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
