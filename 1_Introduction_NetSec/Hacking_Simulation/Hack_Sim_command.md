@@ -109,6 +109,7 @@
 cd, ls, pwd, cp, mv, rm, mkdir, rmdir, touch, find, chmod
 
 -  Process Management:
+  
      ps, top, kill, pkill
 
 -  Networking:
