@@ -198,3 +198,4 @@ selanjunya, mari kita salin public key,
 
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
 
+salin public key ke dalam dokumen terpisah, 
