@@ -207,7 +207,7 @@ salin public key ke dalam dokumen terpisah, seperti notepad,
 kemudian menghubungi Lord Nikon kembali,kirim email ke Lord Nikon dengan cara yang sama seperti sebelumnya
 
 ```ruby
-learnnetsec@learnnetsec_server:/etc/btc/# 
+learnnetsec@learnnetsec_server:/etc/btc/# sendmail lordnikon
 
 ```
    <b>Back</b>  [[....]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim.md)
