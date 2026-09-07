@@ -105,30 +105,31 @@
 | whois |Retrieves registration information about a domain or IP address.|  
 
 2. Command Categories
--  File and Directory Management:
-cd, ls, pwd, cp, mv, rm, mkdir, rmdir, touch, find, chmod
+   
+-  <b>File and Directory Management:</b>
+   cd, ls, pwd, cp, mv, rm, mkdir, rmdir, touch, find, chmod
 
--  Process Management:
+-  <b>Process Management:</b>
   
      ps, top, kill, pkill
 
--  Networking:
+-  <b>Networking:</b>
 
    ifconfig, ping, ss, ssh, whois
 
--  System and User Management:
+-  <b>System and User Management:</b>
 
    hostname, date, who, whoami, passwd, logout
 
--  Text Editors:
+-  <b>Text Editors:</b>
 
     vi, vim
 
--  Package Management:
+-  <b>Package Management:</b>
 
    apt
 
--  Custom Commands in the Current Environment:
+-  <b>Custom Commands in the Current Environment:</b>
 
    available, btc, hacktheplanet, peboeka, refresh, session, setcolor, stdout, vps
    
