@@ -10,9 +10,9 @@ In this section, we will cover: 1) how to register an account, 2) how to log int
 | 1.4.3 | Creating a Virtual Private Server (VPS)   | Create VPS | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_vps.md) | 
 | 1.4.4 | Connect to  Server   | Connect to VPS & disconnect VPS | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_command_learn.md) |  
 | 1.4.5 | Configure  Server   | Install Firewall, Viewing processes running on the server, Installing more software (Mailx, Sendmail, Logs, | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_configure.md) |  
-| 1.4.6 | Configuration for Hacking Experiments   | Sending a message to Lordnikon | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_first_attemp.md) |  
-| 1.4.7 | Preparation for the First Hack   | Opening and checking emails from LordNikon, updating the sources.list file, installing Nmap, and installing Bitcoin | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_prepare.md) |  
-| 1.4.8 | Exploiting Service   | Sending a second email to Lord Nikon | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_exploitingservice.md) |  
+| 1.4.6 | Configuration for Hacking Experiments   | Send the first message to Lordnikon | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_first_attemp.md) |  
+| 1.4.7 | Preparation for the First Hack   | Opening and checking emails from Lordnikon, updating the sources.list file, installing Nmap, and installing Bitcoin | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_prepare.md) |  
+| 1.4.8 | Exploiting Service   | Sending a second email to Lordnikon | [[read]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/Hacking_Simulation/Hack_Sim_exploitingservice.md) |  
 
 | **1.4** | **Back**  | - | [[ .... ]](https://github.com/syaifulahdan/Learn-NetSec/blob/main/1_Introduction_NetSec/introductio_Netsec.md)|  
     
